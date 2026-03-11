@@ -1,355 +1,230 @@
-# 🪞 Mirror Daily Digest — 2026-02-28
+# 🪞 Mirror — Daily Intelligence Digest
+**2026-03-11**
 
-## 🔥 Abnormal Activity
-*Neo4j graph database unavailable (DNS resolution failure). Heat anomaly detection skipped.*
-
-## 🧵 Active Narratives (updated)
-
-| Narrative | Status | Today's Development |
-|-----------|--------|---------------------|
-| **Afghanistan-Pakistan Border Conflict** | 🔴 Escalating | Pakistan airstrikes on Kabul/Kandahar; Afghan forces claim jet shootdown; Pakistan declares "open war" |
-| **US-Iran Nuclear Tensions** | 🔴 Critical | Trump signals military option; China urges citizens to leave; US designates Iran "state sponsor of wrongful detention" |
-| **India Political Legal Cases** | 🟢 Resolved | Delhi court discharges Kejriwal, Sisodia in liquor policy case citing CBI lapses |
-| **India-Canada Diplomatic Reset** | 🟡 Active | Canadian PM Mark Carney begins 4-day India visit focused on trade/investment |
-| **Entertainment Industry Consolidation** | 🟢 Active | Netflix exits Warner Bros bidding; Paramount secures $110B deal |
+> *85 key events · 0 entities spiking · 20 active narratives*
 
 ---
 
-## Top 25
+## 📰 Top Events
 
-### 1. Delhi Court Clears Kejriwal, Sisodia in Liquor Policy Case
-**Impact:** 8/10 | **Bias:** Neutral | **Sources:** 8 (BBC, Times of India, Scroll, Swarajya, Deccan Chronicle, India Today, Gujarat Samachar)
+### 1. Hegseth Warns Iran of Most Intense Strikes Yet, US Vows No Relenting
+**Impact:** 🔴 9/10 · **Bias:** neutral · **Narrative:** US-Iran Military Confrontation
 
-**Summary:** A Delhi court discharged Chief Minister Arvind Kejriwal, Manish Sisodia, and 21 others in the liquor policy case, delivering a scathing 598-page order criticizing the CBI's investigation lapses and lack of evidence. Kejriwal was arrested in March 2024, weeks before India's general election, and spent months in jail.
+US Defense Secretary Pete Hegseth announced that Tuesday will be the most intense day of strikes against Iran since the conflict began on February 28. President Trump predicted the war would end soon while warning Iran against withholding oil exports afterward.
 
-**Causal chain:** Political rivalry between BJP-AAP → CBI investigation → Arrests before 2024 election → Court finds procedural lapses → Discharge of all accused
-
-**Bias note:** Coverage largely neutral. AAP-aligned outlets emphasized "truth prevailed"; BJP-aligned outlets focused on CBI's right to appeal. International coverage (BBC) noted timing of arrests before elections.
-
-**Entities:** Arvind Kejriwal, Manish Sisodia, CBI, Aam Aadmi Party, BJP, Delhi
+*Key entities:* Pete Hegseth, Donald Trump, United States, Iran
 
 ---
 
-### 2. Pakistan Airstrikes Kill 11 in Afghanistan; Kabul Vows Retaliation
-**Impact:** 8/10 | **Bias:** Nationalist | **Sources:** 5 (Times of India, Scroll, News18, Investing.com, Gujarat Samachar)
+### 2. US Central Command Reports $5.6 Billion in Munitions Used Against Iran in 48 Hours
+**Impact:** 🔴 9/10 · **Bias:** neutral · **Narrative:** US-Iran Military Conflict Escalation
 
-**Summary:** Pakistan conducted airstrikes on Kabul and Kandahar, killing at least 11 people. Afghanistan's Taliban government vowed retaliation, declaring Islamabad has initiated "open war." India is closely monitoring the escalation, supporting Afghanistan's sovereignty.
+US Central Command has confirmed that American forces deployed over 2,000 munitions against Iran, resulting in $5.6 billion in military spending within the first 48 hours of operations. More than 5,000 targets have been struck as part of the ongoing military assault.
 
-**Causal chain:** TTP militant attacks from Afghan soil → Pakistan military response → Airstrikes on Afghan cities → Taliban vows retaliation → Regional destabilization risk
-
-**Bias note:** Indian outlets framed Pakistan as aggressor masking domestic failures; Pakistani sources emphasized TTP threat. Afghan sources highlighted civilian casualties.
-
-**Entities:** Pakistan, Afghanistan, Taliban, Kabul, Kandahar, India, TTP
+*Key entities:* United States, Iran, US Central Command
 
 ---
 
-### 3. Trump Signals Military Force Against Iran While Nuclear Talks Continue
-**Impact:** 8/10 | **Bias:** Neutral | **Sources:** 5 (CNBC, Times of India, News18, NDTV, India Today)
+### 3. Speculation Grows Over Iran Supreme Leader Khamenei Health Succession
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran Supreme Leader Health and Succession Uncertainty
 
-**Summary:** US President Donald Trump indicated he prefers not to use military force against Iran but warned it may be necessary, even as diplomatic negotiations shift to Vienna. The statement reflects growing frustration with Iran's nuclear activities.
+Reports emerged suggesting Iran's Supreme Leader Ayatollah Ali Khamenei suffered injuries, with unnamed officials commenting on his condition. The late leader's will reportedly expressed he did not want his son Mojtaba to succeed him, while North Korea stated it respects Iran's choice of new supreme leader.
 
-**Causal chain:** Iran nuclear program advancement → US military build-up in region → Vienna talks initiated → Trump public pressure → Military option remains on table
-
-**Bias note:** Western outlets focused on diplomatic efforts; regional outlets emphasized military threats. Neutral framing overall.
-
-**Entities:** Donald Trump, United States, Iran, Vienna, White House
+*Key entities:* Ayatollah Ali Khamenei, Mojtaba Khamenei, Iran, North Korea
 
 ---
 
-### 4. US Designates Iran "State Sponsor of Wrongful Detention"
-**Impact:** 8/10 | **Bias:** Neutral | **Sources:** 3 (Times of India, The Hindu, India Today)
+### 4. Trump Announces $300 Billion Texas Refinery Project With India's Reliance Industries
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-India Energy Infrastructure Partnership
 
-**Summary:** US Secretary of State Marco Rubio designated Iran as a state sponsor of wrongful detention, a new category targeting Iran's practice of detaining foreign nationals. Rubio urged all Americans to leave Iran immediately.
+US President Donald Trump announced via Truth Social that India's Reliance Industries will invest in a $300 billion refinery project at the Port of Brownsville, Texas, marking the first new US refinery in nearly 50 years. The project, to be built by America First Refining, is described by Trump as a historic deal representing a significant expansion of US-India energy cooperation.
 
-**Causal chain:** Iran's hostage diplomacy → US citizen detentions → New designation category → Travel advisory escalation → Diplomatic pressure intensifies
-
-**Bias note:** Straight reporting across sources. No significant framing differences detected.
-
-**Entities:** Marco Rubio, Iran, United States, Ali Khamenei
+*Key entities:* Donald Trump, Reliance Industries, America First Refining, Mukesh Ambani, Port of Brownsville
 
 ---
 
-### 5. PM Modi Launches Nationwide HPV Vaccination Drive
-**Impact:** 8/10 | **Bias:** Nationalist | **Sources:** 3 (The Hindu, Swarajya, Hindu Business Line)
+### 5. Erdogan Warns of Regional Escalation as US-Israel-Iran Tensions Intensify
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Israel-Iran Regional Conflict Escalation
 
-**Summary:** Prime Minister Narendra Modi launched a nationwide HPV vaccination program targeting approximately 1.15 crore 14-year-old girls across India to prevent cervical cancer. The campaign represents a significant public health initiative.
+Turkish President Erdogan warned that the ongoing US-Israel-Iran conflict could engulf the entire region, emphasizing mounting human and economic costs. Nearly 20,000 civilian buildings have been damaged in Iran, with an Indian national among those injured in Iranian drone attacks near Dubai Airport.
 
-**Causal chain:** High cervical cancer rates in India → Public health priority → Modi government initiative → Nationwide vaccination drive → Potential reduction in cancer mortality
-
-**Bias note:** Government-aligned outlets (Swarajya) emphasized Modi's leadership; mainstream outlets (The Hindu) provided policy details. No critical coverage detected.
-
-**Entities:** Narendra Modi, India, BJP, Ajmer
+*Key entities:* Recep Tayyip Erdogan, United States, Israel, Iran, India
 
 ---
 
-### 6. Pakistan Conducts Air Strikes in Afghanistan, Escalating Border Tensions
-**Impact:** 8/10 | **Bias:** Neutral | **Sources:** 2 (Times of India, News18)
+### 6. Trump Warns Iran of 20 Times Stronger Strikes If Hormuz Oil Flow Blocked
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Military Tensions Over Gulf
 
-**Summary:** Pakistan conducted air strikes inside Afghanistan, marking a serious escalation in cross-border tensions with the Taliban-led administration. The conflict stems from historical disputes over the Durand Line and TTP militant concerns.
+US President Donald Trump warned Iran of devastating consequences if the Hormuz Strait oil flow is disrupted, saying the US would strike "20 times harder." The Islamic Revolutionary Guard Corps responded that Tehran would determine the end of the conflict as Trump claimed the war could end soon.
 
-**Causal chain:** Colonial-era Durand Line dispute → TTP safe havens in Afghanistan → Pakistan military action → Air strikes → Regional instability
-
-**Bias note:** Explanatory focus on historical context. Neutral framing.
-
-**Entities:** Pakistan, Afghanistan, Taliban, TTP, Durand Line
+*Key entities:* Donald Trump, Iran, Islamic Revolutionary Guard Corps, United States, Hormuz Strait
 
 ---
 
-### 7. China Urges Citizens to Leave Iran Amid US Tensions
-**Impact:** 8/10 | **Bias:** Neutral | **Sources:** 2 (Times of India, News18)
+### 7. US Military Destroys 16 Iranian Mine-Laying Boats Near Strait of Hormuz
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Military Confrontation in Strait of Hormuz
 
-**Summary:** China has urged its citizens to evacuate from Iran while warning those in Israel to remain vigilant, as the US conducts its largest military build-up in decades. Britain and other nations are also withdrawing personnel from the Middle East.
+The US military announced it destroyed 16 Iranian mine-laying boats in the Strait of Hormuz, with President Trump confirming 10 inactive vessels were targeted. Iran retains approximately 80-90 percent of its small boat and mine-laying fleet despite the action.
 
-**Causal chain:** US military build-up → Regional tension escalation → Multiple nations issue travel warnings → China evacuation advisory → Pre-conflict positioning
-
-**Bias note:** Factual reporting on diplomatic actions. No significant bias detected.
-
-**Entities:** China, Iran, United States, United Kingdom, Israel
+*Key entities:* Donald Trump, US Military, Iran, United States, Strait of Hormuz
 
 ---
 
-### 8. Afghan Forces Reportedly Shoot Down Pakistani Jet
-**Impact:** 8/10 | **Bias:** Neutral | **Sources:** 1 (News18)
+### 8. Trump Advisers Urge Exit Strategy From Iran War Amid Political Concerns
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Military Conflict and Diplomatic Tensions
 
-**Summary:** Afghan military forces claim to have shot down a Pakistani aircraft that allegedly entered Afghan airspace, marking a significant escalation in ongoing tensions between the two neighboring nations.
+Advisers to Donald Trump have urged him to develop an exit strategy from the US war with Iran as public support for the conflict wanes. The report highlights growing political concerns within the administration about the continuation of US military involvement.
 
-**Causal chain:** Pakistan airstrikes → Afghan airspace violations → Jet shootdown claim → Military escalation → Potential wider conflict
-
-**Bias note:** Single source report. Unverified claim requiring corroboration.
-
-**Entities:** Afghanistan, Pakistan, Afghan Forces
+*Key entities:* Donald Trump, United States, Iran
 
 ---
 
-### 9. Pakistan Defence Minister Declares "Open War" on Taliban
-**Impact:** 8/10 | **Bias:** Neutral | **Sources:** 1 (News18)
+### 9. India Supreme Court Allows Passive Euthanasia for Man in Vegetative State
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India's Passive Euthanasia Legal Framework
 
-**Summary:** Pakistan Defence Minister Khawaja Asif declared "open war" on the Taliban government, stating Islamabad's patience has reached its limit. Asif accused Afghanistan's Taliban of acting as India's proxy.
+India's Supreme Court has authorized the removal of life support for Harish Rana, a 31-year-old man who has been in a vegetative state for 13 years, marking a significant expansion of passive euthanasia rights in the country following the landmark Shanbaug case precedent.
 
-**Causal chain:** Border clashes → Pakistani casualties → Defense minister statement → "Open war" declaration → India accused of proxy role
-
-**Bias note:** Pakistani official statement; India-proxy accusation unverified.
-
-**Entities:** Khawaja Asif, Taliban, Pakistan, Afghanistan, India
+*Key entities:* Harish Rana, Supreme Court of India, Shanbaug case, India
 
 ---
 
-### 10. Delhi High Court Acquits Sisodia; CBI to Appeal
-**Impact:** 7/10 | **Bias:** Nationalist | **Sources:** Multiple
+### 10. IEA Considers Historic Oil Reserve Release Amid Middle East Tensions
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Global Strategic Oil Reserve Management
 
-**Summary:** Delhi High Court acquitted Manish Sisodia in the liquor policy case. The CBI has announced it will appeal the decision, prolonging the legal battle.
+The International Energy Agency is considering a significant release of strategic oil reserves to stabilize markets amid rising tensions in the Middle East and concerns over potential Iran conflict. If approved, the drawdown would exceed the 182 million barrels released in 2022 following Russia's full-scale invasion of Ukraine.
 
-**Causal chain:** Court acquittal → CBI appeal announced → Legal process continues → Political uncertainty persists
-
-**Bias note:** CBI appeal framed differently across political lines.
-
-**Entities:** Manish Sisodia, CBI, Delhi High Court
+*Key entities:* International Energy Agency, Iran, Russia, Ukraine
 
 ---
 
-### 11. Bill Clinton Testifies in Epstein Probe
-**Impact:** 7/10 | **Bias:** Neutral | **Sources:** 2 (Multiple)
+### 11. Jaishankar Speaks With Iranian FM Araghchi Amid Middle East Crisis
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Middle East Conflict and Global Energy Security
 
-**Summary:** Former US President Bill Clinton testified in the Jeffrey Epstein investigation, denying any wrongdoing. The testimony is part of ongoing legal proceedings related to the disgraced financier's associates.
+Indian External Affairs Minister S. Jaishankar held telephone talks with Iranian Foreign Minister Abbas Araghchi amid growing global concerns about oil supply disruptions due to the escalating West Asia crisis. The discussion focused on energy security and regional developments.
 
-**Causal chain:** Epstein investigation → High-profile testimonies → Clinton questioned → Denial of wrongdoing → Investigation continues
-
-**Bias note:** Neutral legal reporting. No significant framing differences.
-
-**Entities:** Bill Clinton, Jeffrey Epstein
+*Key entities:* S. Jaishankar, Abbas Araghchi, India, Iran, West Asia
 
 ---
 
-### 12. Netflix Exits Warner Bros Bidding; Paramount Secures $110B Deal
-**Impact:** 7/10 | **Bias:** Neutral | **Sources:** Multiple
+### 12. Nvidia invests in Mira Murati's Thinking Machines Lab, secures chip supply deal
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** AI Infrastructure Arms Race
 
-**Summary:** Netflix withdrew from the bidding war for Warner Bros. Discovery after Paramount offered $110 billion for the media conglomerate. The deal represents significant consolidation in the entertainment industry.
+Nvidia has made a significant investment in AI startup Thinking Machines Lab, founded by former OpenAI CTO Mira Murati. The partnership includes deployment of at least one gigawatt of Nvidia's Vera Rubin computing systems and highlights Nvidia's growing role as financier to startups dependent on its AI chips.
 
-**Causal chain:** Streaming competition → Media consolidation pressure → Bidding war → Netflix withdrawal → Paramount victory
-
-**Bias note:** Business-focused reporting. Neutral framing.
-
-**Entities:** Netflix, Warner Bros. Discovery, Paramount
+*Key entities:* Mira Murati, Thinking Machines Lab, Nvidia, Vera Rubin, OpenAI
 
 ---
 
-### 13. Norway Wealth Fund Drops Adani Green Energy
-**Impact:** 7/10 | **Bias:** Neutral | **Sources:** Multiple
+### 13. Supreme Court Suggests Uniform Civil Code as Solution to Muslim Personal Law Bias
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Uniform Civil Code Implementation Debate in India
 
-**Summary:** Norway's sovereign wealth fund divested from Adani Green Energy citing corruption concerns, marking another institutional investor exit from the Adani group following the Hindenburg report.
+The Supreme Court of India suggested a Uniform Civil Code could address perceived bias in Muslim personal law against women. The court noted it had previously recommended common personal law and deferred to legislative wisdom on the matter.
 
-**Causal chain:** Hindenburg allegations → Institutional review → Corruption concerns → Norway fund exit → ESG compliance
-
-**Bias note:** ESG-focused framing. Adani Group disputes allegations.
-
-**Entities:** Norway Sovereign Wealth Fund, Adani Green Energy
+*Key entities:* Supreme Court of India, Muslim women, India
 
 ---
 
-### 14. Trump Suggests "Friendly Takeover" of Cuba
-**Impact:** 7/10 | **Bias:** Neutral | **Sources:** Multiple
+### 14. WHO Warns of Black Rain Health Risks After Iran Oil Facility Strikes
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Iran Oil Infrastructure Attacks and Environmental Fallout
 
-**Summary:** US President Donald Trump suggested a "friendly takeover" of Cuba following high-level talks with Havana, hinting at a potential major shift in US-Cuba relations.
+The WHO warned that toxic fallout from US-Israeli strikes on Iranian oil facilities has created black rain and air pollution, posing respiratory and other health risks to Iran's population.
 
-**Causal chain:** US-Cuba diplomatic talks → Trump statement → "Friendly takeover" suggestion → Policy uncertainty → Regional implications
-
-**Bias note:** Speculative framing. No concrete policy announced.
-
-**Entities:** Donald Trump, Cuba, United States, Havana
+*Key entities:* World Health Organization, Iran, United States, Israel
 
 ---
 
-### 15. India's Fiscal Deficit Hits 63% of FY26 Target
-**Impact:** 7/10 | **Bias:** Neutral | **Sources:** Multiple
+### 15. India Purchases 30 Million Barrels of Russian Crude After US Waiver
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India-Russia Energy Trade Amid Geopolitical Tensions
 
-**Summary:** India's fiscal deficit reached Rs 9.8 lakh crore during April-January, hitting 63% of the FY26 target, raising concerns about government spending trajectory.
+India has secured approximately 30 million barrels of Russian crude oil following a US waiver, with major refiners Indian Oil and Reliance Industries acquiring stranded cargoes. This strategic procurement comes as Middle East conflicts disrupt traditional oil supply routes, pushing India to diversify its energy sources.
 
-**Causal chain:** Government expenditure → Revenue shortfall → Deficit accumulation → 63% of target reached → Fiscal management concerns
-
-**Bias note:** Economic data reporting. Neutral framing.
-
-**Entities:** India, Ministry of Finance
+*Key entities:* India, Russia, United States, Middle East, Indian Oil
 
 ---
 
-### 16. US-Iran Nuclear Talks End with Progress
-**Impact:** 7/10 | **Bias:** Neutral | **Sources:** Multiple
+### 16. Microsoft Supports Anthropic Against Pentagon Blacklisting, Seeks Restraining Order
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** AI Industry Government Regulation
 
-**Summary:** US-Iran nuclear talks concluded with reported progress, though the final deal status remains uncertain. Negotiations continue amid military tensions.
+Microsoft has filed to support Anthropic in its legal challenge against the Pentagon's supply chain risk designation, arguing the blacklist threatens the AI ecosystem and military readiness. The tech giant urges a temporary restraining order to halt what it calls an unprecedented action against an AI company.
 
-**Causal chain:** Nuclear program concerns → Diplomatic engagement → Vienna talks → Progress reported → Deal uncertain
-
-**Bias note:** Diplomatic-focused reporting. Cautiously optimistic framing.
-
-**Entities:** United States, Iran, Vienna
+*Key entities:* Microsoft, Anthropic, Pentagon
 
 ---
 
-### 17. Anthropic Refuses Unconditional AI Use for US Military
-**Impact:** 7/10 | **Bias:** Neutral | **Sources:** Multiple
+### 17. Deleted White House Post on Hormuz Tanker Sends Oil Prices Plummeting
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Social Media Misinformation Impact on Global Markets
 
-**Summary:** AI company Anthropic refused to allow unconditional use of its AI systems by the US military, citing safeguard concerns. The decision highlights tensions between defense needs and AI safety principles.
+A now-deleted social media post claiming the US Navy escorted an oil tanker through the Strait of Hormuz caused oil prices to drop 15% before partially recovering. The incident highlights the sensitivity of global energy markets to unverified geopolitical information.
 
-**Causal chain:** AI military applications → Safety concerns → Anthropic refusal → Safeguard conditions → Industry debate intensifies
-
-**Bias note:** Tech ethics framing. Balanced coverage.
-
-**Entities:** Anthropic, US Military, Pentagon
+*Key entities:* White House, US Navy, Jennifer Granholm, Strait of Hormuz, United States
 
 ---
 
-### 18. AI Threatens 30-50 Age Group Jobs
-**Impact:** 7/10 | **Bias:** Neutral | **Sources:** Multiple
+### 18. Supreme Court Issues Guidelines on Withdrawal of Life Support
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India Medical Ethics and Right to Die
 
-**Summary:** Reports indicate AI-driven job displacement is particularly affecting workers aged 30-50, with developed nations expected to gain most from AI productivity gains while developing nations face workforce challenges.
+India's Supreme Court has ruled that withdrawal of life support must not be treated as an 'act of abandonment' but should be a structured and clearly articulated process. The judgment by Justices J.B. Pardiwala and K.V. Viswanathan establishes new guidelines for end-of-life care and natural death decisions.
 
-**Causal chain:** AI advancement → Automation acceleration → Mid-career displacement → Developed/developing nation divide → Workforce restructuring
-
-**Bias note:** Economic analysis framing. No political bias detected.
-
-**Entities:** AI Industry, Global Workforce
+*Key entities:* Supreme Court of India, J.B. Pardiwala, K.V. Viswanathan, India
 
 ---
 
-### 19. US Extends OPT Program for Indian Students
-**Impact:** 7/10 | **Bias:** Neutral | **Sources:** Multiple
+### 19. Black Acid Rain Falls Over Iran After US-Israeli Airstrikes on Oil Depots
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Iran Military Escalation in Middle East
 
-**Summary:** The US extended the Optional Practical Training (OPT) program for international students, providing relief to Indian students amid broader immigration policy shifts.
+Scientists are analyzing the phenomenon of black acid rain falling over parts of Iran in the hours following US-Israeli airstrikes on Iranian oil depots. The unusual weather event is being attributed to the combination of burning oil facilities and specific atmospheric conditions.
 
-**Causal chain:** Immigration policy review → Student visa concerns → OPT extension → Indian student relief → Continued US education appeal
-
-**Bias note:** Immigration policy framing. Neutral reporting.
-
-**Entities:** United States, India, US Immigration Services
+*Key entities:* Iran, United States, Israel, Scientists
 
 ---
 
-### 20. Canadian PM Mark Carney Begins 4-Day India Visit
-**Impact:** 7/10 | **Bias:** Neutral | **Sources:** Multiple
+### 20. Supreme Court Orders Government to Provide Compensation for Covid Vaccine Side Effects
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India Covid Vaccine Legal Accountability
 
-**Summary:** Canadian Prime Minister Mark Carney began a 4-day visit to India focused on resetting bilateral relations and advancing trade and investment discussions following diplomatic tensions.
+India's Supreme Court has directed the government to provide compensation for deaths and injuries caused by Covid-19 vaccines. The court also called for the creation of an expert panel to investigate vaccine side effects.
 
-**Causal chain:** Khalistan issue tensions → Diplomatic strain → New Canadian government → Carney visit → Trade-focused reset
-
-**Bias note:** Diplomatic reset framing. Both sides emphasizing trade over controversies.
-
-**Entities:** Mark Carney, India, Canada
+*Key entities:* Supreme Court of India, Government of India, India
 
 ---
 
-### 21. India and Israel Expand Defence Cooperation
-**Impact:** 7/10 | **Bias:** Neutral | **Sources:** Multiple
 
-**Summary:** India and Israel pledged to boost ties in defence and technology during Prime Minister Modi's visit to Israel, expanding the strategic partnership between the two nations.
-
-**Causal chain:** Existing defence ties → Modi Israel visit → Cooperation expansion → Technology sharing → Strategic deepening
-
-**Bias note:** Strategic partnership framing. Neutral coverage.
-
-**Entities:** India, Israel, Narendra Modi
 
 ---
 
-### 22. IPL 2026 to Begin March 28
-**Impact:** 6/10 | **Bias:** Neutral | **Sources:** Multiple
+## 📖 Active Narrative Threads
 
-**Summary:** IPL 2026 is scheduled to begin on March 28 with the final on May 31. The tournament will feature potential schedule adjustments.
+### Early Summer Heatwave in India
+**ID:** `india_heatwave_2024` · **Events:** 4 · **Started:** 2026-03-05 · **Updated:** 2026-03-11
 
-**Causal chain:** Cricket calendar planning → IPL schedule announced → March 28 start → 2-month tournament → Cricket economy boost
+### India LPG Supply Crunch and Energy Shortage
+**ID:** `india_lpg_supply_crisis` · **Events:** 3 · **Started:** 2026-03-09 · **Updated:** 2026-03-11
 
-**Bias note:** Sports reporting. No political framing.
+### Iran Leadership Transition and Regional Tensions
+**ID:** `iran_leadership_succession` · **Events:** 2 · **Started:** 2026-03-10 · **Updated:** 2026-03-11
 
-**Entities:** BCCI, IPL
+### Indian Celebrity Weddings
+**ID:** `indian_celebrity_weddings` · **Events:** 2 · **Started:** 2026-03-05 · **Updated:** 2026-03-11
 
----
+### India Education Exam Technology Incidents
+**ID:** `india_education_exam_technology` · **Events:** 1 · **Started:** 2026-03-11 · **Updated:** 2026-03-11
 
-### 23. President Murmu Flies Indigenous LCH Prachand Helicopter
-**Impact:** 6/10 | **Bias:** Nationalist | **Sources:** Multiple
+### Middle East Conflict and Global Energy Security
+**ID:** `middle_east_conflict_energy_security` · **Events:** 1 · **Started:** 2026-03-11 · **Updated:** 2026-03-11
 
-**Summary:** President Droupadi Murmu flew in the indigenous LCH Prachand combat helicopter at Jaisalmer Airbase, becoming the first President to fly in an indigenous combat helicopter.
+### US-Iran Geopolitical Tensions Impact on Global Markets
+**ID:** `us_iran_geopolitical_tensions_markets` · **Events:** 1 · **Started:** 2026-03-11 · **Updated:** 2026-03-11
 
-**Causal chain:** Make in India defence → LCH development → Presidential flight → Indigenous capability demonstration → National pride
+### Europe Public Transport Safety Incidents
+**ID:** `europe_public_transport_incidents` · **Events:** 1 · **Started:** 2026-03-11 · **Updated:** 2026-03-11
 
-**Bias note:** Nationalist framing emphasizing indigenous achievement.
+### US-Iran Military Confrontation in Strait of Hormuz
+**ID:** `us_iran_military_tensions_hormuz` · **Events:** 1 · **Started:** 2026-03-11 · **Updated:** 2026-03-11
 
-**Entities:** Droupadi Murmu, LCH Prachand, Indian Air Force
+### T20 International Cricket Rankings Update
+**ID:** `t20_cricket_rankings` · **Events:** 1 · **Started:** 2026-03-11 · **Updated:** 2026-03-11
 
----
 
-### 24. Gold Prices Surge to Record Rs 1.59 Lakh
-**Impact:** 6/10 | **Bias:** Neutral | **Sources:** Multiple
-
-**Summary:** Gold prices surged to a record high of Rs 1.59 lakh per 10 grams, driven by global economic uncertainty and safe-haven demand.
-
-**Causal chain:** Global uncertainty → Safe-haven demand → Gold price surge → Record highs → Investment implications
-
-**Bias note:** Financial reporting. Neutral framing.
-
-**Entities:** Gold Market, RBI
 
 ---
 
-### 25. TMC Announces 4 Rajya Sabha Candidates
-**Impact:** 6/10 | **Bias:** Neutral | **Sources:** Multiple
-
-**Summary:** Trinamool Congress announced 4 Rajya Sabha candidates including former Bengal DGP and actor Koel Mallick, ahead of the March 5 elections.
-
-**Causal chain:** Rajya Sabha elections → Candidate announcements → Diverse selections → Political positioning → Bengal politics
-
-**Bias note:** Political reporting. Neutral candidate list coverage.
-
-**Entities:** Trinamool Congress, West Bengal, Rajya Sabha
-
----
-
-## 📊 Digest Statistics
-- **Total articles processed:** 655
-- **Event clusters:** 548
-- **Multi-source clusters (high confidence):** 37
-- **Feeds operational:** 31/43
-- **Model used:** MiniMax M2.5 (abab6.5s-chat)
-- **Processing time:** ~10 minutes
-
----
-
-*Mirror reflects the world as it is. No ideology. No loyalty to any narrative.*
+*Generated by Mirror · Powered by MiniMax-M2.5 · Updated 2026-03-11 11:09 UTC*
