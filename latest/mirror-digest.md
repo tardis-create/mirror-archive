@@ -1,189 +1,189 @@
 # 🪞 Mirror — Daily Intelligence Digest
-**2026-03-11**
+**2026-03-24**
 
-> *85 key events · 0 entities spiking · 20 active narratives*
+> *99 key events · 0 entities spiking · 20 active narratives*
 
 ---
 
 ## 📰 Top Events
 
-### 1. Hegseth Warns Iran of Most Intense Strikes Yet, US Vows No Relenting
-**Impact:** 🔴 9/10 · **Bias:** neutral · **Narrative:** US-Iran Military Confrontation
+### 1. Report Claims Netanyahu Urged Trump to Consider Operation Against Khamenei
+**Impact:** 🔴 9/10 · **Bias:** neutral · **Narrative:** U.S.-Israel-Iran Escalation and Geopolitical Tensions
 
-US Defense Secretary Pete Hegseth announced that Tuesday will be the most intense day of strikes against Iran since the conflict began on February 28. President Trump predicted the war would end soon while warning Iran against withholding oil exports afterward.
+A media report claims Israeli Prime Minister Benjamin Netanyahu pushed former U.S. President Donald Trump to authorize an operation targeting Iranian Supreme Leader Ali Khamenei, arguing it was a unique opportunity for revenge against Iranian assassination plots targeting Trump. The revelation has raised significant concerns about potential escalation in already tense U.S.-Iran and Israel-Iran relations.
 
-*Key entities:* Pete Hegseth, Donald Trump, United States, Iran
-
----
-
-### 2. US Central Command Reports $5.6 Billion in Munitions Used Against Iran in 48 Hours
-**Impact:** 🔴 9/10 · **Bias:** neutral · **Narrative:** US-Iran Military Conflict Escalation
-
-US Central Command has confirmed that American forces deployed over 2,000 munitions against Iran, resulting in $5.6 billion in military spending within the first 48 hours of operations. More than 5,000 targets have been struck as part of the ongoing military assault.
-
-*Key entities:* United States, Iran, US Central Command
+*Key entities:* Donald Trump, Benjamin Netanyahu, Ali Khamenei, United States, Israel
 
 ---
 
-### 3. Speculation Grows Over Iran Supreme Leader Khamenei Health Succession
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran Supreme Leader Health and Succession Uncertainty
+### 2. Saudi Arabia and UAE May Join US-Israel Campaign Against Iran Over Attacks
+**Impact:** 🔴 9/10 · **Bias:** nationalist · **Narrative:** US-Gulf Alliance Against Iran Escalation
 
-Reports emerged suggesting Iran's Supreme Leader Ayatollah Ali Khamenei suffered injuries, with unnamed officials commenting on his condition. The late leader's will reportedly expressed he did not want his son Mojtaba to succeed him, while North Korea stated it respects Iran's choice of new supreme leader.
+Reports indicate Saudi Arabia and the UAE are considering joining US and Israeli military action against Iran, as repeated missile and drone attacks on Gulf energy infrastructure and airports threaten regional stability. The potential alignment marks a significant shift as Gulf allies move toward direct involvement in efforts to counter Iranian influence near the Strait of Hormuz.
 
-*Key entities:* Ayatollah Ali Khamenei, Mojtaba Khamenei, Iran, North Korea
-
----
-
-### 4. Trump Announces $300 Billion Texas Refinery Project With India's Reliance Industries
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-India Energy Infrastructure Partnership
-
-US President Donald Trump announced via Truth Social that India's Reliance Industries will invest in a $300 billion refinery project at the Port of Brownsville, Texas, marking the first new US refinery in nearly 50 years. The project, to be built by America First Refining, is described by Trump as a historic deal representing a significant expansion of US-India energy cooperation.
-
-*Key entities:* Donald Trump, Reliance Industries, America First Refining, Mukesh Ambani, Port of Brownsville
+*Key entities:* Saudi Arabia, United Arab Emirates, United States, Israel, Iran
 
 ---
 
-### 5. Erdogan Warns of Regional Escalation as US-Israel-Iran Tensions Intensify
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Israel-Iran Regional Conflict Escalation
+### 3. Pakistan Proposes Islamabad As Venue For Direct US-Iran Peace Negotiations
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Diplomatic Engagement and West Asia Peace Talks
 
-Turkish President Erdogan warned that the ongoing US-Israel-Iran conflict could engulf the entire region, emphasizing mounting human and economic costs. Nearly 20,000 civilian buildings have been damaged in Iran, with an Indian national among those injured in Iranian drone attacks near Dubai Airport.
+Pakistan is positioning Islamabad as a potential venue for direct US-Iran negotiations amid ongoing West Asia conflict, with Field Marshal Asim Munir having spoken with Trump and senior US officials potentially traveling for talks. The meeting could occur this week, though the US State Department has called such reports speculative.
 
-*Key entities:* Recep Tayyip Erdogan, United States, Israel, Iran, India
-
----
-
-### 6. Trump Warns Iran of 20 Times Stronger Strikes If Hormuz Oil Flow Blocked
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Military Tensions Over Gulf
-
-US President Donald Trump warned Iran of devastating consequences if the Hormuz Strait oil flow is disrupted, saying the US would strike "20 times harder." The Islamic Revolutionary Guard Corps responded that Tehran would determine the end of the conflict as Trump claimed the war could end soon.
-
-*Key entities:* Donald Trump, Iran, Islamic Revolutionary Guard Corps, United States, Hormuz Strait
+*Key entities:* Donald Trump, Asim Munir, JD Vance, Steve Witkoff, Jared Kushner
 
 ---
 
-### 7. US Military Destroys 16 Iranian Mine-Laying Boats Near Strait of Hormuz
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Military Confrontation in Strait of Hormuz
+### 4. Iran Warns US of Retaliation 'Deadline' as Trump Claims Progress in Talks
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Military Tensions and Nuclear Talks
 
-The US military announced it destroyed 16 Iranian mine-laying boats in the Strait of Hormuz, with President Trump confirming 10 inactive vessels were targeted. Iran retains approximately 80-90 percent of its small boat and mine-laying fleet despite the action.
+Iran has issued a stark warning to the United States, threatening severe retaliation for any attack on its infrastructure in an apparent 'eye for a head' response. Tehran has hardened its negotiating stance, demanding an end to the war, security guarantees, compensation, and control of the Strait of Hormuz before considering peace talks.
 
-*Key entities:* Donald Trump, US Military, Iran, United States, Strait of Hormuz
-
----
-
-### 8. Trump Advisers Urge Exit Strategy From Iran War Amid Political Concerns
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Military Conflict and Diplomatic Tensions
-
-Advisers to Donald Trump have urged him to develop an exit strategy from the US war with Iran as public support for the conflict wanes. The report highlights growing political concerns within the administration about the continuation of US military involvement.
-
-*Key entities:* Donald Trump, United States, Iran
+*Key entities:* Donald Trump, Mohsen Rezaei, Iranian Government, United States, Israel
 
 ---
 
-### 9. India Supreme Court Allows Passive Euthanasia for Man in Vegetative State
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India's Passive Euthanasia Legal Framework
+### 5. Iran Demands Sanctions Lifted for Ceasefire as Middle East Conflict Enters Fourth Week
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Middle East Regional Conflict Escalation
 
-India's Supreme Court has authorized the removal of life support for Harish Rana, a 31-year-old man who has been in a vegetative state for 13 years, marking a significant expansion of passive euthanasia rights in the country following the landmark Shanbaug case precedent.
+The Israel-Iran-US conflict continues with Iran rejecting ceasefire unless sanctions are removed, while strikes have hit buildings in Israel. PM Modi discussed the Middle East war and energy security with Sri Lankan President Anura Dissanayake, emphasizing disruption to global supply chains.
 
-*Key entities:* Harish Rana, Supreme Court of India, Shanbaug case, India
-
----
-
-### 10. IEA Considers Historic Oil Reserve Release Amid Middle East Tensions
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Global Strategic Oil Reserve Management
-
-The International Energy Agency is considering a significant release of strategic oil reserves to stabilize markets amid rising tensions in the Middle East and concerns over potential Iran conflict. If approved, the drawdown would exceed the 182 million barrels released in 2022 following Russia's full-scale invasion of Ukraine.
-
-*Key entities:* International Energy Agency, Iran, Russia, Ukraine
+*Key entities:* Narendra Modi, Anura Dissanayake, Iran, Israel, United States
 
 ---
 
-### 11. Jaishankar Speaks With Iranian FM Araghchi Amid Middle East Crisis
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Middle East Conflict and Global Energy Security
+### 6. India Supreme Court Rules Only Hindus, Sikhs, Buddhists Eligible for Scheduled Caste Status
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** India Caste and Religion Constitutional Interpretation
 
-Indian External Affairs Minister S. Jaishankar held telephone talks with Iranian Foreign Minister Abbas Araghchi amid growing global concerns about oil supply disruptions due to the escalating West Asia crisis. The discussion focused on energy security and regional developments.
+India's Supreme Court ruled that only Hindus, Sikhs, and Buddhists are eligible for Scheduled Caste status, stating that conversion to any other religion results in immediate and complete loss of this protected category status regardless of birth. The judgment addresses a long-standing ambiguity about whether SC benefits could be retained after religious conversion.
 
-*Key entities:* S. Jaishankar, Abbas Araghchi, India, Iran, West Asia
-
----
-
-### 12. Nvidia invests in Mira Murati's Thinking Machines Lab, secures chip supply deal
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** AI Infrastructure Arms Race
-
-Nvidia has made a significant investment in AI startup Thinking Machines Lab, founded by former OpenAI CTO Mira Murati. The partnership includes deployment of at least one gigawatt of Nvidia's Vera Rubin computing systems and highlights Nvidia's growing role as financier to startups dependent on its AI chips.
-
-*Key entities:* Mira Murati, Thinking Machines Lab, Nvidia, Vera Rubin, OpenAI
+*Key entities:* Supreme Court of India, India
 
 ---
 
-### 13. Supreme Court Suggests Uniform Civil Code as Solution to Muslim Personal Law Bias
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Uniform Civil Code Implementation Debate in India
+### 7. Iran's New Supreme Leader Mojtaba Khamenei Signals Willingness to Negotiate with US
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Diplomatic Tensions and Potential Negotiations
 
-The Supreme Court of India suggested a Uniform Civil Code could address perceived bias in Muslim personal law against women. The court noted it had previously recommended common personal law and deferred to legislative wisdom on the matter.
+Iran's new Supreme Leader Mojtaba Khamenei reportedly agrees to negotiate with the United States amid ongoing conflict, according to Israeli media. Earlier statements from Iran's Foreign Ministry had denied recent negotiations with Washington, creating contradictory signals about Tehran's diplomatic stance.
 
-*Key entities:* Supreme Court of India, Muslim women, India
-
----
-
-### 14. WHO Warns of Black Rain Health Risks After Iran Oil Facility Strikes
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Iran Oil Infrastructure Attacks and Environmental Fallout
-
-The WHO warned that toxic fallout from US-Israeli strikes on Iranian oil facilities has created black rain and air pollution, posing respiratory and other health risks to Iran's population.
-
-*Key entities:* World Health Organization, Iran, United States, Israel
+*Key entities:* Mojtaba Khamenei, Donald Trump, Iran, United States, Israel
 
 ---
 
-### 15. India Purchases 30 Million Barrels of Russian Crude After US Waiver
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India-Russia Energy Trade Amid Geopolitical Tensions
+### 8. Tel Aviv Residents Carry On Despite Ongoing Hezbollah Rocket Attacks
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Israel-Hezbollah Cross-Border Conflict Escalation
 
-India has secured approximately 30 million barrels of Russian crude oil following a US waiver, with major refiners Indian Oil and Reliance Industries acquiring stranded cargoes. This strategic procurement comes as Middle East conflicts disrupt traditional oil supply routes, pushing India to diversify its energy sources.
+Israeli civilians in Tel Aviv continue daily routines despite repeated Hezbollah rocket strikes targeting the city and surrounding military installations, with sirens sounding repeatedly as air raid alerts persist across the metropolitan area.
 
-*Key entities:* India, Russia, United States, Middle East, Indian Oil
-
----
-
-### 16. Microsoft Supports Anthropic Against Pentagon Blacklisting, Seeks Restraining Order
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** AI Industry Government Regulation
-
-Microsoft has filed to support Anthropic in its legal challenge against the Pentagon's supply chain risk designation, arguing the blacklist threatens the AI ecosystem and military readiness. The tech giant urges a temporary restraining order to halt what it calls an unprecedented action against an AI company.
-
-*Key entities:* Microsoft, Anthropic, Pentagon
+*Key entities:* Tel Aviv, Hezbollah, Iran, Israel, India Today
 
 ---
 
-### 17. Deleted White House Post on Hormuz Tanker Sends Oil Prices Plummeting
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Social Media Misinformation Impact on Global Markets
+### 9. NASA Unveils Lunar Base Plans, Nuclear Spacecraft for Mars
+**Impact:** 🔴 8/10 · **Bias:** nationalist · **Narrative:** US Lunar Return and Deep Space Exploration
 
-A now-deleted social media post claiming the US Navy escorted an oil tanker through the Strait of Hormuz caused oil prices to drop 15% before partially recovering. The incident highlights the sensitivity of global energy markets to unverified geopolitical information.
+NASA announced plans to establish a permanent lunar base and develop nuclear-powered spacecraft for Mars missions, marking a shift from brief visits to sustained human presence in space. The initiative aims to achieve a lunar landing by the end of President Trump's term through commercial and international partnerships.
 
-*Key entities:* White House, US Navy, Jennifer Granholm, Strait of Hormuz, United States
-
----
-
-### 18. Supreme Court Issues Guidelines on Withdrawal of Life Support
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India Medical Ethics and Right to Die
-
-India's Supreme Court has ruled that withdrawal of life support must not be treated as an 'act of abandonment' but should be a structured and clearly articulated process. The judgment by Justices J.B. Pardiwala and K.V. Viswanathan establishes new guidelines for end-of-life care and natural death decisions.
-
-*Key entities:* Supreme Court of India, J.B. Pardiwala, K.V. Viswanathan, India
+*Key entities:* NASA, Donald Trump, United States
 
 ---
 
-### 19. Black Acid Rain Falls Over Iran After US-Israeli Airstrikes on Oil Depots
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Iran Military Escalation in Middle East
+### 10. US Deploys Thousands More Troops to Middle East Amid Iran-Israel Tensions
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Middle East Conflict Escalation and Regional Security
 
-Scientists are analyzing the phenomenon of black acid rain falling over parts of Iran in the hours following US-Israeli airstrikes on Iranian oil depots. The unusual weather event is being attributed to the combination of burning oil facilities and specific atmospheric conditions.
+US officials announce deployment of additional thousands of troops to the Middle East amid escalating Iran-Israel conflict. Indian Prime Minister Modi spoke with President Trump, expressing India's support for immediate de-escalation and restoration of peace in the region.
 
-*Key entities:* Iran, United States, Israel, Scientists
+*Key entities:* Donald Trump, Narendra Modi, United States, India, Iran
 
 ---
 
-### 20. Supreme Court Orders Government to Provide Compensation for Covid Vaccine Side Effects
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India Covid Vaccine Legal Accountability
+### 11. Trump and Modi Discuss Iran Missile Crisis, Middle East Tensions Rise
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran-US Middle East Military Escalation
 
-India's Supreme Court has directed the government to provide compensation for deaths and injuries caused by Covid-19 vaccines. The court also called for the creation of an expert panel to investigate vaccine side effects.
+US President Donald Trump and Indian Prime Minister Narendra Modi held a telephone conversation amid escalating Iran missile attacks in the Middle East. Reports indicate Iran launched approximately 40 missiles, prompting international concern and diplomatic efforts to de-escalate the regional crisis.
 
-*Key entities:* Supreme Court of India, Government of India, India
+*Key entities:* Donald Trump, Narendra Modi, Iran, United States, India
+
+---
+
+### 12. Trump Proposes Joint US-Iran Control of Strait of Hormuz, Claims Strait Will Reopen
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Tensions and Strait of Hormuz Security
+
+Former President Donald Trump announced potential joint management of the critical Strait of Hormuz with Iran's leadership, suggesting the strategic waterway would reopen soon. The statement comes amid paused strikes on Iran and ongoing negotiations over nuclear issues that could impact global oil prices.
+
+*Key entities:* Donald Trump, Iran, United States, Strait of Hormuz, Ayatollah
+
+---
+
+### 13. UAE Contractor Killed in Bahrain During Iranian Strike, Conflict Enters Fourth Week
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran-Gulf States Regional Conflict
+
+A UAE civilian contractor was killed in Bahrain during an Iranian strike, marking the fourth week of the West Asia conflict. The UAE and Saudi Arabia are moving closer to entering the conflict, signaling potential widening of the war.
+
+*Key entities:* UAE, Bahrain, Iran, Saudi Arabia, Dubai
+
+---
+
+### 14. Lok Sabha Passes Transgender Rights Amendment Bill 2026 Amid Opposition Walkout
+**Impact:** 🟡 7/10 · **Bias:** center_left · **Narrative:** India Transgender Rights Legislation Debate
+
+The Lok Sabha passed the Transgender Persons (Protection of Rights) Amendment Bill 2026 by voice vote, with Opposition MPs walking out in protest. The controversial legislation restricts self-identification criteria for transgender individuals, sparking criticism from activists who argue it undermines the community's rights.
+
+*Key entities:* Lok Sabha, NDA, Opposition MPs, India, Ministry of Social Justice and Empowerment
+
+---
+
+### 15. Iran Appoints Mohammad Bagher Zolghadr as New Security Chief After Larijani's Death
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Iran Security Leadership Transition After Larijani Death
+
+Iran has appointed Mohammad Bagher Zolghadr, a former Revolutionary Guard brigadier general and Expediency Council secretary, as the new Secretary of the Supreme National Security Council following the death of Ali Larijani. The appointment comes as Iran fills a key security position that oversees the country's strategic defense and intelligence policies.
+
+*Key entities:* Mohammad Bagher Zolghadr, Ali Larijani, Supreme National Security Council, Islamic Revolutionary Guard Corps, Expediency Council
+
+---
+
+### 16. Zelenskyy Claims Ukraine Has Evidence Russia Providing Intelligence to Iran
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Russia-Iran Military and Intelligence Cooperation
+
+Ukrainian President Volodymyr Zelenskyy claims Ukraine possesses evidence that Russia is providing intelligence support to Iran. The reported intelligence cooperation allegedly helps Iran enhance its operational capabilities and strike precision.
+
+*Key entities:* Volodymyr Zelenskyy, Ukraine, Russia, Iran
+
+---
+
+### 17. Pakistan Ranks Most Polluted Globally in 2025, WHO Standards Missed by 130 Nations
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** South Asia Air Pollution Crisis
+
+Pakistan has been ranked as the world's most polluted country in 2025, with PM2.5 concentrations reaching up to 13 times the WHO recommended limit. Bangladesh and Tajikistan followed as the second and third most polluted nations, while Chad dropped from first place in 2024 to fourth.
+
+*Key entities:* Pakistan, Bangladesh, Tajikistan, Chad, World Health Organization
+
+---
+
+### 18. Modi, Trump Discuss Strait of Hormuz Security and West Asia Tensions
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-India Diplomatic Engagement on Middle East Security
+
+Prime Minister Narendra Modi and US President Donald Trump held diplomatic talks focusing on de-escalating West Asia tensions while emphasizing the critical importance of keeping the Strait of Hormuz open for global energy supply stability.
+
+*Key entities:* Narendra Modi, Donald Trump, India, United States, Strait of Hormuz
+
+---
+
+### 19. RSS Chief Mohan Bhagwat Advocates Three-Child Policy to Address Demographic Concerns
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India Population Policy and Demographic Concerns
+
+The Rashtriya Swayamsevak Sangh (RSS) chief Mohan Bhagwat has publicly supported implementing a three-child population policy in India, arguing that it would help maintain social balance and prevent long-term risks associated with declining birth rates. The RSS, often referred to as the ideological parent of India's ruling Bharatiya Janata Party, has been increasingly vocal about population control measures as a national priority.
+
+*Key entities:* Mohan Bhagwat, Rashtriya Swayamsevak Sangh, Bharatiya Janata Party, India
+
+---
+
+### 20. Top Maoist Commander Paparao Surrenders with 17 Cadres in Chhattisgarh
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Resolution of India's Maoist Insurgency in Bastar Region
+
+Senior Maoist commander Paparao surrendered along with 17 cadres in Bastar, Chhattisgarh, with authorities claiming this signals the potential end of the decades-long insurgency in the region. Remaining Maoist operatives are reportedly concentrated in Gadchiroli, Maharashtra, and Telangana, where surrender negotiations are reportedly underway.
+
+*Key entities:* Paparao, Maoists, Chhattisgarh, Bastar, Gadchiroli
 
 ---
 
@@ -193,38 +193,38 @@ India's Supreme Court has directed the government to provide compensation for de
 
 ## 📖 Active Narrative Threads
 
-### Early Summer Heatwave in India
-**ID:** `india_heatwave_2024` · **Events:** 4 · **Started:** 2026-03-05 · **Updated:** 2026-03-11
+### India Maoist Insurgency and Counter-Operations
+**ID:** `india_maoist_insurgency` · **Events:** 2 · **Started:** 2026-03-11 · **Updated:** 2026-03-24
 
-### India LPG Supply Crunch and Energy Shortage
-**ID:** `india_lpg_supply_crisis` · **Events:** 3 · **Started:** 2026-03-09 · **Updated:** 2026-03-11
+### US-Iran Military Escalation in Persian Gulf
+**ID:** `us_iran_military_standoff` · **Events:** 2 · **Started:** 2026-03-22 · **Updated:** 2026-03-24
 
-### Iran Leadership Transition and Regional Tensions
-**ID:** `iran_leadership_succession` · **Events:** 2 · **Started:** 2026-03-10 · **Updated:** 2026-03-11
+### Israel-Hezbollah Cross-Border Conflict Escalation
+**ID:** `israel_hezbollah_conflict_2024` · **Events:** 2 · **Started:** 2026-03-24 · **Updated:** 2026-03-24
 
-### Indian Celebrity Weddings
-**ID:** `indian_celebrity_weddings` · **Events:** 2 · **Started:** 2026-03-05 · **Updated:** 2026-03-11
+### US-Iran Diplomatic Engagement and West Asia Peace Talks
+**ID:** `us_iran_diplomatic_tensions` · **Events:** 2 · **Started:** 2026-03-24 · **Updated:** 2026-03-24
 
-### India Education Exam Technology Incidents
-**ID:** `india_education_exam_technology` · **Events:** 1 · **Started:** 2026-03-11 · **Updated:** 2026-03-11
+### Iran Security Leadership Transition After Larijani Death
+**ID:** `iran_security_leadership_transition` · **Events:** 1 · **Started:** 2026-03-24 · **Updated:** 2026-03-24
 
-### Middle East Conflict and Global Energy Security
-**ID:** `middle_east_conflict_energy_security` · **Events:** 1 · **Started:** 2026-03-11 · **Updated:** 2026-03-11
+### US Lunar Return and Deep Space Exploration
+**ID:** `us_lunar_return_2020s` · **Events:** 1 · **Started:** 2026-03-24 · **Updated:** 2026-03-24
 
-### US-Iran Geopolitical Tensions Impact on Global Markets
-**ID:** `us_iran_geopolitical_tensions_markets` · **Events:** 1 · **Started:** 2026-03-11 · **Updated:** 2026-03-11
+### US Stock Market Insider Trading Data
+**ID:** `us_insider_trading_reports` · **Events:** 1 · **Started:** 2026-03-24 · **Updated:** 2026-03-24
 
-### Europe Public Transport Safety Incidents
-**ID:** `europe_public_transport_incidents` · **Events:** 1 · **Started:** 2026-03-11 · **Updated:** 2026-03-11
+### India's Urban Transit Expansion
+**ID:** `india_urban_transit_infrastructure` · **Events:** 1 · **Started:** 2026-03-24 · **Updated:** 2026-03-24
 
-### US-Iran Military Confrontation in Strait of Hormuz
-**ID:** `us_iran_military_tensions_hormuz` · **Events:** 1 · **Started:** 2026-03-11 · **Updated:** 2026-03-11
+### India Farmer Welfare Policy Debate
+**ID:** `india_farmer_welfare_claims` · **Events:** 1 · **Started:** 2026-03-24 · **Updated:** 2026-03-24
 
-### T20 International Cricket Rankings Update
-**ID:** `t20_cricket_rankings` · **Events:** 1 · **Started:** 2026-03-11 · **Updated:** 2026-03-11
+### Bollywood Celebrity Endorsements and Film Promotions
+**ID:** `bollywood_celebrity_endorsements` · **Events:** 1 · **Started:** 2026-03-24 · **Updated:** 2026-03-24
 
 
 
 ---
 
-*Generated by Mirror · Powered by MiniMax-M2.5 · Updated 2026-03-11 11:09 UTC*
+*Generated by Mirror · Powered by MiniMax-M2.5 · Updated 2026-03-24 18:52 UTC*
