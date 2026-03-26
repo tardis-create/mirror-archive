@@ -1,287 +1,230 @@
 # 🪞 Mirror — Daily Intelligence Digest
-**2026-03-25**
+**2026-03-26**
 
-> *25 multi-source event clusters · No heat anomalies detected*
+> *97 key events · 0 entities spiking · 20 active narratives*
 
 ---
 
 ## 📰 Top Events
 
-### 1. US-Israel-Iran War Live Updates: Despite Iran's Denial, Trump Says Negotiations Underway With Tehran
-**Sources:** 10 · **Bias:** neutral
+### 1. Israel Strikes Tehran as US Negotiates to End Iran Conflict
+**Impact:** 🔴 9/10 · **Bias:** neutral · **Narrative:** Iran-Israel Military Confrontation and US Mediation Efforts
 
-Field Marshal Asim Munir spoke with Trump on Monday, the people said, asking not to be identified because the discussions are private | Donald Trump and Narendra Modi discuss West Asia tensions, stres
+Israel conducted strikes on Tehran amid escalating hostilities with Iran, with explosions reported in Isfahan. US President Trump stated America is actively negotiating to end the war, suggesting diplomatic efforts are underway alongside military actions.
 
-- [Source](https://www.indiatoday.in/world/story/president-trump-says-iran-talks-underway-a)
-- [Source](https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-m)
-- [Source](https://www.cnbc.com/2026/03/24/trump-iran-war-negotiations.html)
+*Key entities:* Israel, Iran, United States, Donald Trump, Tehran
 
 ---
 
-### 2. મોર્નિંગ ન્યૂઝ બ્રીફ:યુદ્ધ વચ્ચે ટ્રમ્પે મોદીને ફોન કર્યો; IPL પહેલાં RCB અને RRની જંગી ડીલ, ગુજરાતન
-**Sources:** 7 · **Bias:** neutral
+### 2. Jury Finds Meta and Google Liable for Social Media Risks to Minors
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Social Media Platform Liability for Youth Mental Health
 
-Royal Challengers Bangalore Sold:&nbsp;IPLની સૌથી ચર્ચિત ટીમોમાંની એક અને ડિફેન્ડિંગ ચેમ્પિયન રોયલ ચેલેન્જર્સ બેંગલુરુ (RCB) હવે નવા માલિકોના હાથમાં ગઈ છે. આદિત્ય બિરલા ગ્રુપ, ટાઈમ્સ ઓફ ઈન્ડિયા ગ્રુપ,
+A California jury found Meta and Google liable for failing to warn users about mental health risks associated with Instagram and YouTube, marking a pivotal moment in youth safety litigation against social media platforms. The verdicts in Los Angeles and New Mexico could influence thousands of pending lawsuits and set precedents for platform design accountability.
 
-- [Source](https://timesofindia.indiatimes.com/sports/cricket/ipl/aditya-birla-toi-groups-b)
-- [Source](https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-bri)
-- [Source](https://www.gujaratsamachar.com/news/sports/ipl-2026-rcb-sold-for-rs-16706-crore)
+*Key entities:* Meta Platforms Inc., Alphabet Inc., Instagram, YouTube, Los Angeles County
 
 ---
 
-### 3. Congress leader Sonia Gandhi admitted to Sir Ganga Ram Hospital in Delhi
-**Sources:** 5 · **Bias:** neutral
+### 3. Iran Rejects US Peace Plan, Sets Five Conditions Including Sanctions Lift and Hormuz Sovereignty
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Diplomatic Standoff and Middle East Conflict
 
-A team of doctors is attending to Sonia Gandhi, said sources | A team of doctors is attending to her, but there is nothing serious, the sources said | Sonia Gandhi admitted to Delhi hospital after fee
+Iran has formally rejected a 15-point US peace proposal to end the ongoing conflict, with senior officials insisting the war will only end on Tehran's own terms. Iran's five conditions include a halt to attacks, guarantees against future aggression, war damage compensation, an end to regional hostilities, and recognition of Iranian sovereignty over the Strait of Hormuz.
 
-- [Source](https://www.thehindu.com/news/national/sonia-gandhi-hospitalised/article70781478)
-- [Source](https://www.business-standard.com/india-news/sonia-gandhi-hospitalised-due-to-we)
-- [Source](https://www.ndtv.com/india-news/sonia-gandhi-hospitalised-doctors-say-nothing-se)
+*Key entities:* Iran, United States, Donald Trump, Tehran, Strait of Hormuz
 
 ---
 
-### 4. દેશમાં પહેલી વખત ઈચ્છામૃત્યુ મેળવનાર હરીશ રાણાએ લીધા અંતિમ શ્વાસ:13 વર્ષથી કોમામાં હતા, સુપ્રીમ કોર્
-**Sources:** 5 · **Bias:** neutral
+### 4. White House Warns Iran of Stronger Strikes After Ceasefire Proposal Rejected
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Military and Diplomatic Confrontation
 
-Harish Rana, India's first patient granted passive euthanasia by the Supreme Court, has passed away at AIIMS after 13 years in a vegetative state. His death followed the withdrawal of life support, a 
+The White House issued a stark warning to Iran, stating that President Trump is prepared to escalate military action after Tehran rejected a 15-point US ceasefire proposal. The threat comes amid ongoing negotiations as the White House also confirmed a scheduled meeting between Trump and Chinese President Xi Jinping in Beijing.
 
-- [Source](https://timesofindia.indiatimes.com/city/delhi/harish-rana-first-to-be-allowed-p)
-- [Source](https://www.ndtv.com/india-news/harish-rana-1st-indian-to-be-allowed-passive-eut)
-- [Source](https://www.deccanchronicle.com/nation/harish-rana-indias-first-person-to-be-all)
+*Key entities:* Donald Trump, White House, Iran, Xi Jinping, China
 
 ---
 
-### 5. Supreme Court backs women officers after long fight for permanent commission
-**Sources:** 4 · **Bias:** neutral
+### 5. India Commits to 47% Emissions Cut, 60% Clean Energy by 2035
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** India's Enhanced Climate Commitments and Energy Transition
 
-The Supreme Court has ordered the armed forces to pay full pension to hundreds of women short service commission officers whose permanent commission was unfairly denied due to arbitrary ACR assessment
+India has updated its climate pledges, targeting a 47% reduction in emissions intensity of GDP and 60% clean energy capacity by 2035. The commitments include creating a carbon sink of 3.5-4 billion tonnes while maintaining economic growth.
 
-- [Source](https://timesofindia.indiatimes.com/india/sc-grants-full-pension-to-women-denied)
-- [Source](https://www.thehindu.com/news/national/presumption-that-women-officers-had-no-lo)
-- [Source](https://www.indiatoday.in/india/story/systemic-bias-supreme-court-backs-women-of)
+*Key entities:* India, United States, European Union, Narendra Modi, Bharatiya Janata Party
 
 ---
 
-### 6. Supreme Court Rules Only Hindus, Sikhs, Buddhists Eligible For Scheduled Caste Status; Converts Lose
-**Sources:** 4 · **Bias:** neutral
+### 6. Iran's Araghchi Declares Strait of Hormuz Open to Friendly Nations, Closed to Enemies
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Middle East Shipping Route Security and Regional Tensions
 
-The Supreme Court ruled that only individuals professing Hinduism, Sikhism, or Buddhism can be members of Scheduled Castes. Conversion to any other religion results in an absolute loss of SC status, p
+Iranian Foreign Minister Abbas Araghchi announced the Strait of Hormuz remains accessible to friendly nations including India and Pakistan, but will be closed to enemies and their allies amid ongoing West Asia tensions. The statement comes during heightened regional conflict and global energy supply concerns, as the waterway handles approximately 20% of global oil shipments.
 
-- [Source](https://timesofindia.indiatimes.com/india/scheduled-caste-status-only-for-hindus)
-- [Source](https://www.thehindubusinessline.com/news/national/sc-concludes-only-hindus-sikh)
-- [Source](https://swarajyamag.com/news-brief/supreme-court-rules-only-hindus-sikhs-buddhis)
+*Key entities:* Abbas Araghchi, Iran, India, Pakistan, Strait of Hormuz
 
 ---
 
-### 7. Tamil Nadu Assembly election 2026: Kamal Haasan’s Makkal Needhi Maiam decides not to contest in poll
-**Sources:** 3 · **Bias:** neutral
+### 7. Iran Allows Non-Hostile Vessels Through Strait of Hormuz After Prior Coordination
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran Restricts and Reopens Strategic Oil Waterway Amid Regional Tensions
 
-MNM’s move comes at a time as the DMK has been busy stitching up the alliance for the upcoming April 23 Polls | DMDK allocated 10 seats in SPA; Makkal Needhi Maiam founder Kamal Haasan opted out of th
+Iran's Defence Council announced it will permit 'non-hostile' vessels to transit the Strait of Hormuz, requiring prior coordination with Iranian officials. The strategic waterway, carrying 20% of global oil shipments, was effectively closed following a US-Israeli attack on February 28, causing oil prices to surge.
 
-- [Source](https://www.thehindu.com/elections/tamil-nadu-assembly/tmcm-gets-five-seats-in-n)
-- [Source](https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-2026-dmdk-all)
-- [Source](https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-2026-kamal-ha)
+*Key entities:* Iran, Iranian Defence Council, United States, Israel, Strait of Hormuz
 
 ---
 
-### 8. Israel To Allow 'Non-Hostile' Vessels To Transit Strait Of Hormuz Under Specific Conditions
-**Sources:** 3 · **Bias:** neutral
+### 8. UN General Assembly Declares Atlantic Slave Trade 'Gravest Crime Against Humanity'
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Global Reparations Dialogue for Historical Injustices
 
-The US-Israeli war against Iran has all but halted shipments of about one-fifth of the world's oil. | Iran has effectively shut the waterway, where 20% of the world's oil normally transits, since the 
+The UN General Assembly has passed a resolution declaring the transatlantic slave trade and slavery as crimes against humanity, calling for reparations. The landmark vote was 123-3 with 52 abstentions among the 193-member body, marking the first formal international recognition of these historical injustices at this level.
 
-- [Source](https://www.news18.com/world/israel-to-allow-non-hostile-vessels-to-transit-stra)
-- [Source](https://www.indiatoday.in/world/story/non-hostile-vessels-can-transit-hormuz-ira)
-- [Source](https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-eas)
+*Key entities:* UN General Assembly, Transatlantic African Slave Trade
 
 ---
 
-### 9. Taliban frees American academic Dennis Coyle after more than a year in detention
-**Sources:** 3 · **Bias:** neutral
+### 9. Jio Platforms Files DRHP for $4B IPO; Meta, Google Among Investors Exiting
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** India Tech Listings and Digital Infrastructure Investment
 
-The Supreme Court of the Islamic Emirate deemed Dennis Coyle 's period of detention sufficient and decided on his release. | Taliban pardons American Dennis Walter Coyle after over a year in Afghan de
+Jio Platforms is set to file its DRHP for an estimated $4 billion IPO, marking India's largest public listing, with 14 global investors including Meta and Google offering shares for sale. The offer for sale structure will reduce early shareholder stakes to approximately 30%, while Reliance Industries retains 67% ownership of the telecom giant.
 
-- [Source](https://www.news18.com/world/us-citizen-released-by-taliban-after-year-long-dete)
-- [Source](https://timesofindia.indiatimes.com/world/us/a-positive-step-taliban-frees-ameri)
-- [Source](https://www.deccanchronicle.com/west-asia/afghanistan-will-release-detained-us-c)
+*Key entities:* Mukesh Ambani, Reliance Industries, Jio Platforms, Meta, Google
 
 ---
 
-### 10. Railways Overhaul Cancellation Policy, No Refund If Ticket Cancelled Within 8 Hours Of Departure
-**Sources:** 3 · **Bias:** neutral
+### 10. Singapore Airlines Suspends Dubai Flights as Gulf Conflict Escalates with Iranian Strike
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran-Gulf States Military Escalation
 
-No refund for cancellation up to 8 hours before departure | Indian Railway New Refund Slabs: ભારતીય રેલવેએ મુસાફરો માટે મોટા ફેરફારોની જાહેરાત કરી છે. હવે ટ્રેન ઉપડવાના આઠ કલાક પહેલા ટિકિટ કેન્સલ કરાવ
+Singapore Airlines has cancelled all flights to Dubai through April 30 as Middle East tensions intensify. The UAE reported that a civilian contractor working with its military was killed in Bahrain during an Iranian strike, prompting concerns that the conflict may be widening with potential involvement from Gulf states.
 
-- [Source](https://www.gujaratsamachar.com/news/national/indian-railway-announces-new-refun)
-- [Source](https://www.deccanchronicle.com/nation/current-affairs/train-ticket-cancellation)
-- [Source](https://swarajyamag.com/news-brief/railways-overhaul-cancellation-policy-no-refu)
+*Key entities:* Singapore Airlines, Dubai, UAE, Iran, Bahrain
 
 ---
 
-### 11. Kerala Assembly Elections 2026: Poll authorities accept V.D. Satheesan’s nomination papers, reject L
-**Sources:** 3 · **Bias:** neutral
+### 11. External Affairs Minister Jaishankar addresses Taiwan Strait tensions, India-US strategic partnership
+**Impact:** 🔴 8/10 · **Bias:** nationalist · **Narrative:** India's Strategic Positioning in Indo-Pacific Geopolitical Dynamics
 
-BJP state president’s papers accepted as authorities reject claims of asset non-disclosure | Opposition leader Satheeshan, BJP state chief Rajeev Chandrasekhar's nomination papers accepted, Complaints
+India's External Affairs Minister S. Jaishankar made significant statements regarding the Taiwan Strait situation and India's strategic alignment with the United States amid escalating geopolitical tensions. Sources indicate rising concerns about multi-front security threats to India, with particular focus on Pakistan and China, as New Delhi deepens defense cooperation with Washington.
 
-- [Source](https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-202)
-- [Source](https://www.thehindubusinessline.com/news/national/rajeev-chandrasekhars-nominat)
-- [Source](https://www.deccanchronicle.com/southern-states/kerala/poll-authorities-clear-no)
+*Key entities:* S. Jaishankar, Indian National Congress, BJP, United States, India
 
 ---
 
-### 12. Donald Trump Fuels Speculation Of Pakistan’s Mediating Role In US-Iran Standoff After Sharing Shehba
-**Sources:** 3 · **Bias:** neutral
+### 12. Bihar to get 60 Lok Sabha seats, 365 MLAs after delimitation; women's reservation formula awaited
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Women's Reservation and Electoral Delimitation in India
 
-Pakistan has offered to host talks between the United States and Iran to end the ongoing conflict. Prime Minister Shehbaz Sharif expressed Islamabad's readiness to facilitate these discussions. Presid
+Modi government has proposed 33% women's reservation in Lok Sabha and state assemblies, with Bihar set to gain significantly after delimitation ahead of 2029 elections. The allocation formula and reservation distribution mechanism remain under discussion within the ruling coalition.
 
-- [Source](https://www.indiatoday.in/world/story/pakistan-offers-to-host-us-iran-peace-talk)
-- [Source](https://www.freepressjournal.in/world/donald-trump-fuels-speculation-of-pakistan)
-- [Source](https://timesofindia.indiatimes.com/world/us/pakistan-to-mediate-iran-us-talks-t)
+*Key entities:* Narendra Modi, BJP, Bihar, Uttar Pradesh, Lok Sabha
 
 ---
 
-### 13. Trump Says Iran Agreed To Not Having Nuclear Weapons: 'We're Talking To The Right People'
-**Sources:** 3 · **Bias:** neutral
+### 13. Iran Reports Second Attack Near Bushehr Nuclear Facility
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Israel-Iran Nuclear Tensions
 
-Trump claimed that Iran has agreed that it would never have a nuclear weapon, adding that Tehran gave Washington a "present" worth a lot of money. | Trump also said that they have annihilated Iran’s d
+Iran claims the United States and Israel carried out a second attack near the Bushehr Nuclear Facility, following a similar strike on March 17. The incident represents a significant escalation in regional tensions involving Iran's nuclear infrastructure.
 
-- [Source](https://timesofindia.indiatimes.com/world/us/they-are-talking-sense-trump-says-i)
-- [Source](https://www.news18.com/world/trump-says-iran-agreed-to-not-having-nuclear-weapon)
-- [Source](https://www.deccanchronicle.com/west-asia/iran-agreed-not-to-have-nuclear-weapon)
+*Key entities:* Iran, United States, Israel, Bushehr Nuclear Facility, Bushehr
 
 ---
 
-### 14. After Ali Larijani's Death, Iran Appoints Mohammad Bagher Zolghadr As New Security Chief
-**Sources:** 2 · **Bias:** neutral
+### 14. Israel-Iran Conflict Disrupts India's Himalayan Energy Supply Chain
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Israel-Iran Regional Conflict and South Asian Energy Security
 
-Mohammad Bagher Zolghadr is an ex-Revolutionary Guard brigadier general and Expediency Council secretary, replacing Ali Larijani. | After Larijanis killing Iran appoints Mohammad Zolghadr as security 
+Israel-Iran conflict has spread to the Himalayan region, severely impacting India's power generation as coal supplies to power plants have disrupted. Qatar's foreign minister is mediating while nations including UAE, Saudi Arabia, USA, France and Yemen are actively involved in the escalating tensions affecting India's 3700 MT condensate and 800 MT crude oil imports.
 
-- [Source](https://www.news18.com/world/who-is-mohammad-bagher-zolghadr-irans-new-security-)
-- [Source](https://www.indiatoday.in/world/story/mohammad-baqer-zolqadr-appointed-iran-new-)
-- [Source](https://www.news18.com/world/after-ali-larijanis-death-iran-appoints-mohammad-ba)
+*Key entities:* Israel, Iran, India, Qatar, United Arab Emirates
 
 ---
 
-### 15. Kerala Police orders social media platforms to remove posts carrying EC letter with BJP seal
-**Sources:** 2 · **Bias:** neutral
+### 15. Israel Fears US May Accept Limited Iran Deal Amid Security Concerns
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Nuclear Negotiations and Middle East Security
 
-An Instagram post by ‘Scroll’ was also blocked in India following a ‘legal request’. | Kerala Police Asks Social Media Platforms To Take Down Posts: Reports | The Election Commission said on Monday th
+Israeli officials worry the United States might accept an incomplete nuclear agreement with Iran that falls short of Tel Aviv's security requirements. The US is simultaneously advancing a 15-point peace framework for the region.
 
-- [Source](https://www.deccanchronicle.com/southern-states/kerala/bjp-seal-on-ec-letter-194)
-- [Source](https://scroll.in/latest/1091604/kerala-police-orders-social-media-platforms-to-)
-- [Source](https://scroll.in/latest/1091596/kerala-poll-official-suspended-after-row-about-)
+*Key entities:* Donald Trump, Israel, Iran, United States, Israeli Government
 
 ---
 
-### 16. Semaglutide: Telangana Drug Control cautions public on self-medication
-**Sources:** 2 · **Bias:** neutral
+### 16. Israel Denies Peace Talks With Iran, Vows Continued Military Pressure
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Israel-Iran Nuclear Tensions and Regional Security
 
-The public has also advised not to procure Semaglutide formulations through unregulated online platforms, unauthorised sellers, or unlicensed channels | The public is advised not to self-medicate with
+Israel has officially denied participating in any reported peace talks with Iran, with Ambassador Danny Danon affirming that Israel will continue targeting Tehran until Iran abandons its nuclear and ballistic missile programs. The statement underscores Israel's firm opposition to diplomatic engagement with Iran amid stalled international nuclear negotiations.
 
-- [Source](https://www.deccanchronicle.com/southern-states/telangana/telangana-cautions-on-)
-- [Source](https://www.thehindubusinessline.com/news/national/semaglutide-telangana-drug-co)
-- [Source](https://www.deccanchronicle.com/southern-states/telangana/telangana-dca-issues-p)
+*Key entities:* Danny Danon, Israel, Iran, United Nations
 
 ---
 
-### 17. TOP News: ट्रंप का दावा- ईरान चाहता है समझौता; मेटा पर 3100 करोड़ का जुर्माना; हरीश राणा का अंतिम सं
-**Sources:** 2 · **Bias:** neutral
+### 17. Kolkata doctor rape-murder: CBI probe ordered, High Court criticizes Bengal govt, protests erupt
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** India Women's Safety and Healthcare Worker Security Crisis
 
-TOP News: ट्रंप का दावा- ईरान चाहता है समझौता; मेटा पर 3100 करोड़ का जुर्माना; हरीश राणा का अंतिम संस्कार आज---Top Headline Today Important And Big News Stories Of 25 March 2026 Updates on amar ujala 
+A female doctor was raped and murdered at RG Kar Medical College in Kolkata, triggering massive protests. Chief Minister Mamata Banerjee ordered a CBI investigation after Calcutta High Court severely criticized the state government's handling of the case, with section 144 imposed near the campus and protests spreading nationwide.
 
-- [Source](https://www.aajtak.in/world/story/iran-us-israel-war-trump-claim-tehran-gift-hor)
-- [Source](https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-)
-- [Source](https://www.amarujala.com/world/trump-opens-up-on-iran-talks-amid-west-asia-conf)
+*Key entities:* Mamata Banerjee, RG Kar Medical College, Calcutta High Court, West Bengal Police, Kolkata
 
 ---
 
-### 18. 'Destructive Activity': Zelenskyy Claims Ukraine Has Evidence Of Russia Providing Intelligence To Ir
-**Sources:** 2 · **Bias:** neutral
+### 18. Russia Launches 400 Drones on Ukraine, Signaling Spring Offensive
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Russia-Ukraine Conflict
 
-This is clearly a destructive activity, and it must be stopped, as it only leads to further destabilization, he said | Zelenskyy asserted that he has evidence of the fact that Russia is providing inte
+Russia launched approximately 400 Iranian-designed Shahed drones at Ukraine, striking at least seven cities, according to Ukrainian Foreign Minister Andrii Sybiha. The massive drone swarm is being interpreted as a precursor to a broader Russian spring offensive.
 
-- [Source](https://www.deccanchronicle.com/world/zelenskyy-ukraine-has-proof-russia-aided-i)
-- [Source](https://www.news18.com/world/destructive-activity-zelenskyy-claims-ukraine-has-e)
-
----
-
-### 19. Trump Okayed Iran Op After Netanyahu Pushed Killing of Khamenei
-**Sources:** 2 · **Bias:** neutral
-
-Netanyahu argued that there might never be a better chance to kill Khamenei and to avenge previous Iranian efforts to assassinate Trump, as per a report. | Netanyahu argued that there might never be a
-
-- [Source](https://www.deccanchronicle.com/trump-okayed-iran-op-after-netanyahu-pushed-kill)
-- [Source](https://www.news18.com/world/trump-approved-iran-ops-after-netanyahu-argued-for-)
+*Key entities:* Andrii Sybiha, Russia, Ukraine, Ukrainian Foreign Ministry
 
 ---
 
-### 20. To Honour Stampede Victims, RCB Players To Wear Jersey No. 11 for Practice
-**Sources:** 2 · **Bias:** neutral
+### 19. SpaceX Plans $75B IPO in June, Valued at $1.25 Trillion
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Private Space Industry Boom and Commercial Space Expansion
 
-The players will be wearing jersey No.11 for the practice on the game day -- the practice time before the match: RCB CEO Rajesh Menon | The decision was taken to honour the fans who died in the stampe
+SpaceX is reportedly planning to raise $75 billion in a June IPO, potentially making it one of the largest public offerings in history. The company was valued at $1.25 trillion after merging with Elon Musk's artificial intelligence venture xAI in February and continues developing spacecraft for Mars missions.
 
-- [Source](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/theyll-be-wit)
-- [Source](https://www.deccanchronicle.com/sports/cricket/to-honour-stampede-victims-rcb-pl)
-
----
-
-### 21. 130 Nations Fail WHO Air Quality Standards, Pakistan Ranked Most Polluted Country In 2025
-**Sources:** 2 · **Bias:** neutral
-
-Pakistan's air has smog with concentrations of hazardous small particles known as PM2.5 up to 13 times higher than the recommended WHO level. | Bangladesh and Tajikistan ranked second and third on the
-
-- [Source](https://www.deccanchronicle.com/world/asia/pakistan-ranked-most-polluted-country)
-- [Source](https://www.news18.com/world/130-nations-fail-who-air-quality-standards-pakistan)
+*Key entities:* Elon Musk, SpaceX, xAI, Mars
 
 ---
 
-### 22. Delhi HC Dismisses Lalu Yadav's Plea to Quash CBI FIR in Land-for-jobs Case
-**Sources:** 2 · **Bias:** neutral
+### 20. India Mandates PNG Switch for Households with Gas Access Within Three Months
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India's Energy Transition and Natural Gas Infrastructure Expansion
 
-The 'land-for-jobs' case is related to Group D appointments made in the West Central Zone of the Indian Railways based in Jabalpur, Madhya Pradesh, during Yadav's tenure as the rail minister between 2
+The Indian government has ordered households with Piped Natural Gas connectivity to switch from LPG within three months, with those refusing to face discontinued LPG supply. The policy aims to accelerate PNG adoption as part of India's broader natural gas infrastructure expansion, with targets set at 62% household coverage.
 
-- [Source](https://scroll.in/latest/1091609/land-for-jobs-scam-delhi-hc-refuses-to-quash-cb)
-- [Source](https://www.deccanchronicle.com/news/delhi-hc-dismisses-lalu-yadavs-plea-to-quas)
-
----
-
-### 23. Iran’s New Supreme Leader Mojtaba Khamenei Agrees To Negotiate, Reach An Agreement With US: Report
-**Sources:** 2 · **Bias:** neutral
-
-Iran’s Supreme Leader Mojtaba Khamenei has agreed to negotiate with the United States, signalling a potential diplomatic opening amid the ongoing conflict. | Earlier, the spokesman for Iran's Foreign 
-
-- [Source](https://www.deccanchronicle.com/west-asia/mojtaba-khamenei-ready-to-negotiate-wi)
-- [Source](https://www.news18.com/world/irans-new-supreme-leader-mojtaba-khamenei-agrees-to)
+*Key entities:* Gujarat Government, Government of India, Gandhinagar, India, Niyam 116
 
 ---
 
-### 24. Farmers' Income Grew Eight-foLd Under NDA In Last 12 Years: Shivraj Singh Chauhan
-**Sources:** 2 · **Bias:** neutral
 
-At the same time he even accused the UPA government saying during its time excuses were made in the name of implementing the Swaminathan Commission recommendations, and even going to the extent of say
-
-- [Source](https://www.deccanchronicle.com/nation/current-affairs/farmers-income-grew-eight)
-- [Source](https://www.gujaratsamachar.com/news/national/shivraj-singh-chouhan-lok-sabha-fa)
-
----
-
-### 25. Octave Attune EAM By Keolis India Selected To Oversee Infrastructure And Operations Of Pune Metro Li
-**Sources:** 2 · **Bias:** neutral
-
-
-
-- [Source](https://www.thehindubusinessline.com/brandhub/pr-release/keolis-india-selects-oc)
-- [Source](https://swarajyamag.com/news-brief/octave-attune-eam-by-keolis-india-selected-to)
-
----
-
-## 🔥 Heat Map — Entities Spiking
-*No anomalies detected in today's data.*
 
 ---
 
 ## 📖 Active Narrative Threads
-*No active narrative threads detected.*
+
+### US-Iran Military Tensions and Diplomatic Threats
+**ID:** `us_iran_military_tensions` · **Events:** 10 · **Started:** 2026-03-05 · **Updated:** 2026-03-26
+
+### India Transgender Rights Legislation Debate
+**ID:** `india_transgender_rights_legislation` · **Events:** 2 · **Started:** 2026-03-24 · **Updated:** 2026-03-26
+
+### India's Digital Infrastructure Expansion and Data Centre Boom
+**ID:** `india_digital_infrastructure_expansion` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+
+### US-Iran Regional Tensions and Hormuz Strait Security
+**ID:** `west_asia_us_iran_tensions` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+
+### Indian Stock Market Holiday Schedules
+**ID:** `india_stock_market_holidays` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+
+### Iran-Israel Military Confrontation and US Mediation Efforts
+**ID:** `iran_israel_military_confrontation_2025` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+
+### India's Energy Transition and Natural Gas Infrastructure Expansion
+**ID:** `india_energy_transition_png_adoption` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+
+### South Asia Road Safety Accidents
+**ID:** `south_asia_road_safety_accidents` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+
+### India-Bangladesh Border Enclave Citizenship and Verification Controversy
+**ID:** `india_bangladesh_border_enclave_citizenship` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+
+### India's Enhanced Climate Commitments and Energy Transition
+**ID:** `india_climate_policy_2024` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+
+
 
 ---
 
-*Generated by Mirror · Analysis not processed via LLM*
+*Generated by Mirror · Powered by MiniMax-M2.5 · Updated 2026-03-26 02:37 UTC*
