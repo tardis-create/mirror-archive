@@ -1,189 +1,189 @@
 # 🪞 Mirror — Daily Intelligence Digest
-**2026-03-26**
+**2026-03-28**
 
-> *99 key events · 0 entities spiking · 20 active narratives*
+> *25 key events · 0 entities spiking · 20 active narratives*
 
 ---
 
 ## 📰 Top Events
 
-### 1. Israel Conducts Wide-Scale Strikes on Iran; Death Toll Nears 2,000
-**Impact:** 🔴 9/10 · **Bias:** neutral · **Narrative:** Iran-Israel Military Escalation in Middle East
+### 1. Iran Attacks Israel with Missiles, 'Thank You India' Message Noted
+**Impact:** 🔴 8/10 · **Bias:** nationalist · **Narrative:** Iran-Israel Conflict Escalation
 
-Israel launched extensive strikes on Iran, with the death toll approaching 2,000, while Israeli officials claimed Iranian naval commander Alireza Tangsiri was killed alongside other senior commanders. US President Donald Trump reportedly sent a peace proposal to Iran as international efforts intensify to end the escalating conflict.
+Iran launched missile strikes against Israel, with some ordnance reportedly bearing 'Thank You India' messages. These attacks occurred amidst escalating tensions and ongoing exchanges between Tehran and Israel.
 
-*Key entities:* Donald Trump, Israel Katz, Alireza Tangsiri, United States, Israel
-
----
-
-### 2. US Weighs Kharg Island Seizure; Iran Vows Relentless Retaliation
-**Impact:** 🔴 9/10 · **Bias:** neutral · **Narrative:** US-Iran Military Confrontation Risk
-
-The United States is considering seizing Iran's Kharg Island, a critical oil export hub, as part of expanding military options against Tehran. Iran has fortified the island and warned of relentless retaliation, raising fears of a direct US-Iranian military confrontation that could disrupt global oil supplies through the Strait of Hormuz.
-
-*Key entities:* United States, Iran, Kharg Island, Strait of Hormuz, Middle East
+*Key entities:* Iran, Israel, India, Tehran
 
 ---
 
-### 3. Iran Opens Strait of Hormuz to Friendly Nations, Restricts US and Western Shipping
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Strategic Waterway Tensions in West Asia
+### 2. Iran Accuses US, Israel of 'Calculated' Minab School Attack at UN
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran-US-Israel Tensions
 
-Iranian Foreign Minister Abbas Araghchi announced that the Strait of Hormuz will remain open for passage by "friendly nations" including India and Pakistan, while restricting US and Western shipping amid escalating West Asia tensions. The move comes during a global energy crisis and highlights Iran's strategic use of the critical oil shipping chokepoint as geopolitical leverage.
+Araghchi condemns a calculated US strike on an Iranian elementary school in Minab killing over 175 students and teachers calling it a war crime and crime against humanity. Volker Turk, chief of the Human Rights Council, said that the bombing evoked ‘visceral horror’ and insisted on the need for justice.
 
-*Key entities:* Abbas Araghchi, Iran, India, Pakistan, United States
-
----
-
-### 4. Trump Warns Iran to Get Serious on Deal as Oil Prices Surge
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Nuclear Negotiations and Middle East Escalation
-
-President Trump has warned Iran to act quickly on nuclear negotiations or face serious consequences, claiming the country has been militarily weakened. Global oil prices surged while US stock markets declined in response to heightened Middle East tensions.
-
-*Key entities:* Donald Trump, United States, Iran, Dow Jones, White House
+*Key entities:* Araghchi, Volker Turk, UN, Human Rights Council, Iran
 
 ---
 
-### 5. Trump Claims Iranian Negotiators Fear Own People; China Urges Peace Talks
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Geopolitical Tensions and Middle East Conflict
+### 3. Rubio: US Can Achieve Iran Objectives Without Ground Troops Amidst Talks
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Iran Geopolitical Tensions
 
-Donald Trump claims Iranian negotiators fear being killed by their own people as China calls for sincere peace talks amid ongoing West Asia conflict. China's Foreign Ministry expressed cautious optimism while highlighting mixed signals between Washington and Tehran over potential negotiations.
+U.S. Senator Marco Rubio stated the U.S. aims to dismantle Iran's military capabilities, including missile, drone, naval, and air forces, without deploying ground troops. Rubio clarified that recent troop deployments offer President Trump contingency options, with operations expected to conclude within weeks, not months, amidst ongoing talks.
 
-*Key entities:* Donald Trump, Abbas Araghchi, Wang Yi, Lin Jian, United States
-
----
-
-### 6. White House Warns Iran After Ceasefire Rejection, Threatens Stronger Military Action
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Military Standoff and Ceasefire Negotiations
-
-The White House warned Iran that it would face intensified military action after Tehran rejected a 15-point US ceasefire proposal, with officials stating Trump does not bluff. Separately, the White House confirmed a planned meeting between Trump and Chinese President Xi Jinping in Beijing in mid-May.
-
-*Key entities:* Donald Trump, White House, Iran, Steve Witkoff, Jared Kushner
+*Key entities:* Marco Rubio, Iran, United States, President Trump
 
 ---
 
-### 7. India passes transgender rights amendment bill amid nationwide protests
-**Impact:** 🔴 8/10 · **Bias:** left · **Narrative:** India Transgender Rights Amendment Debate
+### 4. Indian Government Cuts Fuel Excise Duty, Reintroduces Windfall Tax on Oil Exports
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India Fuel Tax and Economic Policy
 
-India's parliament passed an amendment bill altering how transgender people are legally recognized, restricting self-identification rights and establishing a tiered punishment system. The legislation has sparked widespread protests from LGBTQ+ rights activists who warn it represents a significant rollback of existing protections for transgender citizens.
+The Indian government has reduced the special additional excise duty on petrol and fully exempted diesel, concurrently reintroducing a windfall gains tax on exports to partially offset the revenue loss. This policy change, projected to incur over ₹7,000 crore in forgone revenue from excise cuts against ₹1,500 crore gained from the initial fortnight of windfall tax, will not immediately affect retail fuel prices.
 
-*Key entities:* India, Indian Parliament, Transgender community, LGBTQ+ rights activists, Ministry of Law and Justice
-
----
-
-### 8. California Jury Finds Meta, YouTube Liable In Social Media Addiction Trial
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Tech Platform Liability and Social Media Regulation
-
-A California jury found Meta and YouTube negligent in their platform design, ordering them to pay $3 million in damages to a plaintiff who claimed the companies deliberately engineered addictive features. The landmark ruling marks the first verdict of its kind and could set precedent for thousands of similar lawsuits against social media companies.
-
-*Key entities:* Meta, YouTube, Google, Instagram, California
+*Key entities:* India, Indian Government, Central Board of Indirect Taxes and Customs, Vivek Chaturvedi
 
 ---
 
-### 9. Iran Threatens to Block Bab al-Mandeb Strait Amid Rising US-Israel Tensions
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran Middle East Maritime Tensions
+### 5. FBI Confirms Iran-Linked Hackers Breached Kash Patel's Emails, Leaked Photos And Documents
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Iran-U.S. Cyber Attacks
 
-Iran has warned it may disrupt the Bab al-Mandeb Strait, a critical global shipping route, if the US and Israel pursue military action against Iranian territory. The strait handles significant oil and LNG shipments between Europe and Asia, and Iran-aligned Houthi forces in Yemen are reportedly prepared to support such a blockade.
+A pro-Iranian hacking group, Handala, claimed responsibility for breaching the personal email account of Kash Patel, a former FBI Director. The U.S. Justice Department has confirmed the compromise and authenticity of leaked photos and documents circulating online.
 
-*Key entities:* Iran, United States, Israel, Yemen, Bab al-Mandeb Strait
-
----
-
-### 10. IRGC Warns US, Israel Against Iran Ground Operation, Threatens Shipping Routes
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran-US-Israel Military Escalation
-
-Iran's Islamic Revolutionary Guard Corps directly addressed Americans, accusing their leaders of misleading the public, and warned that any ground operation in Iran would send US soldiers to "hell." The IRGC also threatened to close strategic shipping lanes including the Strait of Hormuz and Bab-el-Mandeb, labeling Trump and Netanyahu as "warmongers."
-
-*Key entities:* Islamic Revolutionary Guard Corps (IRGC), Donald Trump, Benjamin Netanyahu, United States, Israel
+*Key entities:* Kash Patel, FBI, Handala, U.S. Justice Department, Iran
 
 ---
 
-### 11. Iran implements Strait of Hormuz toll system as US hardens stance
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Geopolitical Tensions and Middle East Stability
+### 6. Trump's Signature on US Dollar Notes Ends 165-Year Tradition
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US Currency Signature Change
 
-Iran has established a de facto toll regime at the Strait of Hormuz, requiring some vessels to pay fees in Chinese yuan. The move escalates tensions with the United States over the waterway through which 20% of global oil and natural gas trade passes.
+The US Treasury is reportedly breaking a 165-year tradition by issuing new dollar notes featuring Donald Trump's signature. This historic change, announced for America's 250th anniversary, would see initial $100 bills printed in June, replacing the long-standing practice of Treasury officials' signatures.
 
-*Key entities:* Iran, United States, China, Strait of Hormuz
-
----
-
-### 12. Iran Drafts Bill to Charge Ships Toll for Passage Through Strait of Hormuz
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Middle East Maritime Security and Energy Transit Tensions
-
-Iranian officials in Tehran have drafted legislation to implement a toll system requiring ships to pay for safe passage through the Strait of Hormuz, a critical global oil shipping route. The move comes amid heightened Middle East tensions and an ongoing oil crisis, with alternative routes like the Bab el-Mandeb also facing security threats.
-
-*Key entities:* Iran, Tehran, Strait of Hormuz, Bab el-Mandeb, Middle East
+*Key entities:* Donald Trump, Malerba, US Treasury, United States
 
 ---
 
-### 13. US Pentagon Considers Redirecting Ukraine Weapons to Middle East Over Supply Strain
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US Military Aid Allocation Amid Multiple Global Conflicts
+### 7. Tiger Woods Arrested on DUI Charge After Florida Car Crash
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Celebrity Legal Troubles
 
-The Pentagon is weighing whether to reroute air defence interceptors and other weapons originally allocated for Ukraine to the Middle East due to strain on US stockpiles from the Iran conflict. This policy shift underscores the growing tension between maintaining support for Kyiv and addressing escalating tensions in West Asia.
+Golf legend Tiger Woods was arrested for driving under the influence following a rollover car crash in Florida on Friday, as confirmed by the Martin County sheriff. This event follows a separate serious rollover crash in California in 2021 that resulted in severe right leg injuries for Woods.
 
-*Key entities:* United States, Pentagon, Ukraine, Russia, Iran
-
----
-
-### 14. Germany opposes US military action against Iran amid escalating tensions
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Geopolitical Confrontation
-
-Reports emerge about escalating US-Iran conflict, with Germany publicly opposing potential American military strikes on Iran and advocating for diplomatic solutions through NATO channels. The US has imposed extensive sanctions while Iran threatens retaliation, raising concerns about broader regional instability.
-
-*Key entities:* Iran, United States, Germany, NATO, IANS
+*Key entities:* Tiger Woods, Florida, Martin County, California
 
 ---
 
-### 15. Gulf States Thwart Iranian Drone Attacks; Singapore Airlines Suspends Dubai Flights
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran-Gulf States Regional Tensions
+### 8. Report: Elon Musk joins Trump, Modi call on Iran conflict, Strait of Hormuz
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Iran-Strait of Hormuz Geopolitical Tensions
 
-UAE, Saudi Arabia, and Kuwait successfully intercepted multiple Iranian drone attacks targeting civilian and energy infrastructure across the Gulf region. Singapore Airlines suspended all flights to Dubai through April 30 as regional tensions escalate, while a contractor affiliated with the Emirati military was killed in Bahrain during an Iranian attack.
+Elon Musk reportedly joined a phone call between Donald Trump and Indian Prime Minister Narendra Modi concerning the conflict in West Asia and the importance of securing the Strait of Hormuz. It remains unclear why Musk participated or if he contributed to the high-level discussion.
 
-*Key entities:* UAE, Iran, Saudi Arabia, Kuwait, Bahrain
-
----
-
-### 16. Ex-Swedish PM Questions India's Role in US-Iran Crisis Resolution
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Military Conflict and Diplomatic Resolution Efforts
-
-Former Swedish Prime Minister Stefan Löfven has stated there is no clear endgame in the US-Iran conflict, despite President Trump's announcement of a five-day pause. Löfven also rejected the notion that India alone can mediate the crisis, citing the complexity of relations with both Iran and Israel.
-
-*Key entities:* Stefan Löfven, Donald Trump, News18.com, United States, Iran
+*Key entities:* Elon Musk, Donald Trump, Narendra Modi, Iran, Strait of Hormuz
 
 ---
 
-### 17. Trump's 15-Point Ceasefire Plan Sent to Iran via Pakistan; Tehran Rejects Nuclear Demands
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Nuclear Negotiations and Middle East De-escalation Efforts
+### 9. Indian Rupee Hits Record Low Amid Iran War Concerns, Market Pressures
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Iran Geopolitical Tensions and Global Economic Impact
 
-The Trump administration delivered a 15-point ceasefire proposal to Iran through Pakistan, offering strategic concessions including Strait of Hormuz access in exchange for nuclear and missile program restrictions. Tehran rejected the core nuclear and ballistic missile limitations while issuing its own counter-demands, signaling continued standoff.
+The Indian Rupee reached an all-time low against the US dollar, falling approximately 4% since the start of the Iran war. This decline, influenced by rising oil prices and broader market pressures, marks its potential first fiscal-year drop in over a decade.
 
-*Key entities:* Donald Trump, Asim Munir, Iran, United States, Pakistan
-
----
-
-### 18. Trump Claims Iran Offered Him Supreme Leader Role; Tehran Denies Negotiations
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Iran Diplomatic Tensions and West Asia Conflict
-
-Former President Trump claims Iran proposed making him Supreme Leader, which he says he refused. Tehran has denied any such proposal and dismissed US claims about ongoing negotiations to end the month-long West Asia conflict as fake news.
-
-*Key entities:* Donald Trump, Iran, Tehran, Supreme Leader
+*Key entities:* India, Iran, United States
 
 ---
 
-### 19. Israel removed Iranian officials from hit list after Pakistan's diplomatic request via US
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Iran Nuclear Negotiations and Regional De-escalation
+### 10. Vance Questions Netanyahu's 'Easy' Iran War Projections in Tense Call
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Israel Tensions Over Iran War Projections
 
-Israel removed Iranian Foreign Minister Abbas Araghchi and Parliament Speaker Mohammad Bagher Qalibaf from a targeting list following Pakistan's request to the United States, reportedly to preserve interlocutors for de-escalation talks. The development comes as Iran reviews a 15-point proposal from President Trump, sent through Pakistani mediation, aimed at ending the ongoing conflict.
+US Senator JD Vance reportedly questioned Israeli Prime Minister Netanyahu's 'easy' projections for a war with Iran during a tense phone call. Following the discussion, a US official alleged that Israel was actively working to undermine Vance's position.
 
-*Key entities:* Abbas Araghchi, Mohammad Bagher Qalibaf, Donald Trump, Israel, Iran
+*Key entities:* JD Vance, Netanyahu, Iran, Israel, United States
 
 ---
 
-### 20. Iran Denies Karachi-Bound Vessel Passage Through Strait of Hormuz
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Iran-Pakistan Regional Tensions and Strategic Waterway Disputes
+### 11. US President Jests About 'Strait of Trump' Amid Iran War Negotiations
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Iran Relations and Strait of Hormuz Tensions
 
-Iran turned back the cargo vessel SELEN bound for Karachi at the Strait of Hormuz, citing protocol violations and lack of clearance, in an action that underscores Tehran's tightening control over the strategic oil transit route amid heightened regional tensions.
+The US President, while discussing the ongoing Iran war, jokingly referred to the Strait of Hormuz as the 'Strait of Trump,' assuring progress in military objectives. He also mentioned ongoing negotiations to end the month-long conflict, including a possibility of joint control over the strait.
 
-*Key entities:* Asim Munir, SELEN, Iranian Embassy in Kabul, Iran, Pakistan
+*Key entities:* Donald Trump, Iran, United States, Strait of Hormuz, Ayatollah
+
+---
+
+### 12. UAE and Kuwait Intercept Drones and Missiles Amid Escalating Gulf Tensions
+**Impact:** 🟡 7/10 · **Bias:** nationalist · **Narrative:** Middle East Tensions and Conflict
+
+UAE air defense systems intercepted six missiles and nine drones, reportedly from Iran, while Kuwait also intercepted two drones, indicating escalating regional tensions. These attacks have led to civilian casualties, including an Indian national, and prompted UN warnings regarding threats to energy sites and infrastructure across the Gulf.
+
+*Key entities:* UAE, Kuwait, Iran, Dubai, Sharjah
+
+---
+
+### 13. Japan Extends ₹16,420 Crore ODA Loans for Indian Metro, Healthcare, and Agriculture Projects
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Japan-India Development Aid and Infrastructure Investment
+
+Japan has committed 16,420 crore rupees in Official Development Assistance (ODA) loans to India for several key infrastructure and development projects. These funds will support the Bengaluru and Mumbai Metro rail projects, enhance tertiary healthcare and nursing education in Maharashtra, and promote sustainable horticulture in Punjab.
+
+*Key entities:* Japan, India, Bengaluru, Mumbai, Maharashtra
+
+---
+
+### 14. India Seeks Russian LNG Amidst Iran Tensions, US Approval Sought
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India-Russia Energy Trade Amidst Geopolitical Tensions
+
+India is preparing to resume LNG purchases from Russia to secure its energy supply amidst rising US-Iran military tensions making the Strait of Hormuz risky for transit. This move comes after a halt in direct LNG trade since the Ukraine conflict, with India reportedly seeking special permission from the US due to trade sanctions.
+
+*Key entities:* India, Russia, USA, Iran, Israel
+
+---
+
+### 15. PM Virtually Observes Surya Tilak Ceremony at Ayodhya Ram Temple on Ram Navami
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Ayodhya Ram Mandir Developments
+
+On Ram Navami, the 'Surya Tilak' ceremony illuminated the idol of Ram Lalla at the grand Ayodhya temple, celebrating the birth of Lord Ram. The Prime Minister virtually witnessed this significant religious event on the ninth day of Chaitra Navratri.
+
+*Key entities:* Narendra Modi, Ayodhya, India
+
+---
+
+### 16. US Confirms Deployment of Uncrewed Drone Boats in Iran Conflict
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Iran Tensions and Drone Warfare
+
+The United States has confirmed the deployment of uncrewed drone boats for active conflict operations during its engagement with Iran. This development follows the notable effectiveness of uncrewed vessels, such as those used by Ukraine to inflict significant damage on Russia's Black Sea Fleet.
+
+*Key entities:* US, Iran, Ukraine, Russia, Black Sea Fleet
+
+---
+
+### 17. Iran Seeks BRICS Intervention Through PM Modi to Counter Attacks
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Geopolitical Shifts and BRICS's Evolving Role
+
+Iranian President Masoud Pajeshkia contacted Prime Minister Modi, requesting BRICS's involvement to halt ongoing attacks on Iran. This outreach highlights Iran's reliance on international organizations like BRICS for conflict resolution and underscores discussions around India's foreign policy.
+
+*Key entities:* Masoud Pajeshkia, Narendra Modi, BRICS, Iran, India
+
+---
+
+### 18. PM Modi Meets Chief Ministers on West Asia Crisis Impact on India
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India's Geopolitical and Economic Impact from Middle East Conflicts
+
+Prime Minister Narendra Modi convened a virtual meeting with Chief Ministers to discuss the Middle East conflict's potential impact on India's fuel supply, inflation, and logistics. The discussions focused on ensuring coordinated Centre-state actions for preparedness and maintaining stability in essential sectors.
+
+*Key entities:* Narendra Modi, Chief Ministers, India, Iran, West Asia
+
+---
+
+### 19. Balendra Shah Sworn In as Nepal's Youngest Prime Minister
+**Impact:** 🟡 6/10 · **Bias:** neutral · **Narrative:** Nepal Political Transition and Youth Representation
+
+Nepal's youngest Prime Minister, Balendra Shah, took the oath of office this Friday. The rapper-turned-politician became prime minister after his Rastriya Swatantra Party won 182 out of 275 seats in the March 5 election, symbolizing youth-driven political change in Nepal.
+
+*Key entities:* Balendra Shah, Narendra Modi, Rastriya Swatantra Party, Nepal, Kathmandu
+
+---
+
+### 20. LPG Tanker Jag Vasant Arrives in Gujarat After Strait of Hormuz Delay
+**Impact:** 🟡 6/10 · **Bias:** neutral · **Narrative:** Middle East Maritime Security
+
+The LPG tanker Jag Vasant has arrived at a Gujarat port after being stranded in the Strait of Hormuz due to an Iranian blockade. This arrival, part of a group of four vessels, helps alleviate India's energy concerns amidst Middle East instability and a reported 40% increase in domestic LPG production.
+
+*Key entities:* Jag Vasant, Iran, India, Gujarat, Strait of Hormuz
 
 ---
 
@@ -193,38 +193,38 @@ Iran turned back the cargo vessel SELEN bound for Karachi at the Strait of Hormu
 
 ## 📖 Active Narrative Threads
 
-### US-Iran Military Tensions and Diplomatic Threats
-**ID:** `us_iran_military_tensions` · **Events:** 10 · **Started:** 2026-03-05 · **Updated:** 2026-03-26
+### US-Iran Geopolitical Relations and Energy Politics
+**ID:** `us_iran_geopolitical_tensions` · **Events:** 3 · **Started:** 2026-03-25 · **Updated:** 2026-03-28
 
-### India Transgender Rights Legislation Debate
-**ID:** `india_transgender_rights_legislation` · **Events:** 2 · **Started:** 2026-03-24 · **Updated:** 2026-03-26
+### Aviation Safety and VVIP Flight Protocols in India
+**ID:** `aviation_safety_vvip_protocols_india` · **Events:** 1 · **Started:** 2026-03-28 · **Updated:** 2026-03-28
 
-### India's Digital Infrastructure Expansion and Data Centre Boom
-**ID:** `india_digital_infrastructure_expansion` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+### Iran-Strait of Hormuz Geopolitical Tensions
+**ID:** `iran_strait_hormuz_tensions` · **Events:** 1 · **Started:** 2026-03-28 · **Updated:** 2026-03-28
 
-### US-Iran Regional Tensions and Hormuz Strait Security
-**ID:** `west_asia_us_iran_tensions` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+### Iran-U.S. Cyber Attacks
+**ID:** `iran_us_cyber_attacks` · **Events:** 1 · **Started:** 2026-03-28 · **Updated:** 2026-03-28
 
-### Indian Stock Market Holiday Schedules
-**ID:** `india_stock_market_holidays` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+### Nepal's Political Transition and India Relations
+**ID:** `nepal_political_transition` · **Events:** 2 · **Started:** 2026-03-09 · **Updated:** 2026-03-27
 
-### Iran-Israel Military Confrontation and US Mediation Efforts
-**ID:** `iran_israel_military_confrontation_2025` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+### Iran-Israel Conflict Escalation
+**ID:** `iran_israel_conflict_escalation` · **Events:** 2 · **Started:** 2026-03-09 · **Updated:** 2026-03-27
 
-### India's Energy Transition and Natural Gas Infrastructure Expansion
-**ID:** `india_energy_transition_png_adoption` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+### Middle East Tensions and Conflict
+**ID:** `middle_east_tensions_and_conflict` · **Events:** 1 · **Started:** 2026-03-27 · **Updated:** 2026-03-27
 
-### South Asia Road Safety Accidents
-**ID:** `south_asia_road_safety_accidents` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+### India's Geopolitical and Economic Impact from Middle East Conflicts
+**ID:** `india_geopolitical_economy_impact` · **Events:** 1 · **Started:** 2026-03-27 · **Updated:** 2026-03-27
 
-### India-Bangladesh Border Enclave Citizenship and Verification Controversy
-**ID:** `india_bangladesh_border_enclave_citizenship` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+### US-Iran Tensions and Drone Warfare
+**ID:** `us_iran_tensions_drone_warfare` · **Events:** 1 · **Started:** 2026-03-27 · **Updated:** 2026-03-27
 
-### India's Enhanced Climate Commitments and Energy Transition
-**ID:** `india_climate_policy_2024` · **Events:** 1 · **Started:** 2026-03-26 · **Updated:** 2026-03-26
+### US Currency Signature Change
+**ID:** `us_currency_signature_change` · **Events:** 1 · **Started:** 2026-03-27 · **Updated:** 2026-03-27
 
 
 
 ---
 
-*Generated by Mirror · Powered by MiniMax-M2.5 · Updated 2026-03-26 12:41 UTC*
+*Generated by Mirror · Powered by MiniMax-M2.5 · Updated 2026-03-28 01:37 UTC*
