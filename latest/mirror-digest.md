@@ -1,5 +1,5 @@
 # 🪞 Mirror — Daily Intelligence Digest
-**2026-03-28**
+**2026-03-29**
 
 > *25 key events · 0 entities spiking · 20 active narratives*
 
@@ -7,183 +7,183 @@
 
 ## 📰 Top Events
 
-### 1. Iran Attacks Israel with Missiles, 'Thank You India' Message Noted
-**Impact:** 🔴 8/10 · **Bias:** nationalist · **Narrative:** Iran-Israel Conflict Escalation
+### 1. Yemen's Houthis Launch First Attack on Israel, Escalating West Asia Conflict
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Middle East Conflict Escalation
 
-Iran launched missile strikes against Israel, with some ordnance reportedly bearing 'Thank You India' messages. These attacks occurred amidst escalating tensions and ongoing exchanges between Tehran and Israel.
+Yemen's Houthi rebels launched a ballistic missile attack on southern Israel, marking their first strike since the West Asia conflict began and opening a dangerous new front. This escalation comes as regional leaders, including Iranian, Pakistani, Turkish, and Saudi officials, engage in diplomatic efforts to ease tensions.
 
-*Key entities:* Iran, Israel, India, Tehran
-
----
-
-### 2. Iran Accuses US, Israel of 'Calculated' Minab School Attack at UN
-**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran-US-Israel Tensions
-
-Araghchi condemns a calculated US strike on an Iranian elementary school in Minab killing over 175 students and teachers calling it a war crime and crime against humanity. Volker Turk, chief of the Human Rights Council, said that the bombing evoked ‘visceral horror’ and insisted on the need for justice.
-
-*Key entities:* Araghchi, Volker Turk, UN, Human Rights Council, Iran
+*Key entities:* Houthis, Yemen, Israel, Iran, Masoud Pezeshkian
 
 ---
 
-### 3. Rubio: US Can Achieve Iran Objectives Without Ground Troops Amidst Talks
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Iran Geopolitical Tensions
+### 2. Iranian Drone Strikes Hit Kuwait Airport, Escalate Regional Tensions
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran-Gulf Regional Tensions
 
-U.S. Senator Marco Rubio stated the U.S. aims to dismantle Iran's military capabilities, including missile, drone, naval, and air forces, without deploying ground troops. Rubio clarified that recent troop deployments offer President Trump contingency options, with operations expected to conclude within weeks, not months, amidst ongoing talks.
+Iranian drone strikes caused a massive blaze and damaged radar systems at Kuwait International Airport, with the fire taking nearly 58 hours to extinguish. Kuwait blames Iran and its proxies for the attack, escalating regional tensions as Iran expands its aerial campaign and issues warnings to Gulf nations.
 
-*Key entities:* Marco Rubio, Iran, United States, President Trump
-
----
-
-### 4. Indian Government Cuts Fuel Excise Duty, Reintroduces Windfall Tax on Oil Exports
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India Fuel Tax and Economic Policy
-
-The Indian government has reduced the special additional excise duty on petrol and fully exempted diesel, concurrently reintroducing a windfall gains tax on exports to partially offset the revenue loss. This policy change, projected to incur over ₹7,000 crore in forgone revenue from excise cuts against ₹1,500 crore gained from the initial fortnight of windfall tax, will not immediately affect retail fuel prices.
-
-*Key entities:* India, Indian Government, Central Board of Indirect Taxes and Customs, Vivek Chaturvedi
+*Key entities:* Iran, Kuwait, Pezeshkian, US Marines, Dubai
 
 ---
 
-### 5. FBI Confirms Iran-Linked Hackers Breached Kash Patel's Emails, Leaked Photos And Documents
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Iran-U.S. Cyber Attacks
+### 3. US Deploys 3,500 Marines and Sailors to Middle East Amid Regional Tensions
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** US-Iran Middle East Tensions
 
-A pro-Iranian hacking group, Handala, claimed responsibility for breaching the personal email account of Kash Patel, a former FBI Director. The U.S. Justice Department has confirmed the compromise and authenticity of leaked photos and documents circulating online.
+The United States has deployed over 3,500 Marines and sailors to the Middle East, specifically West Asia, aboard the USS Tripoli. This deployment augments the 50,000 US troops already in the region, marking a significant military buildup amidst escalating tensions with Iran.
 
-*Key entities:* Kash Patel, FBI, Handala, U.S. Justice Department, Iran
-
----
-
-### 6. Trump's Signature on US Dollar Notes Ends 165-Year Tradition
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US Currency Signature Change
-
-The US Treasury is reportedly breaking a 165-year tradition by issuing new dollar notes featuring Donald Trump's signature. This historic change, announced for America's 250th anniversary, would see initial $100 bills printed in June, replacing the long-standing practice of Treasury officials' signatures.
-
-*Key entities:* Donald Trump, Malerba, US Treasury, United States
+*Key entities:* US, Iran, Israel, CENTCOM, United States Marine Corps
 
 ---
 
-### 7. Tiger Woods Arrested on DUI Charge After Florida Car Crash
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Celebrity Legal Troubles
+### 4. Iranian Missiles Strike Tel Aviv, Injure US Troops in Saudi Arabia
+**Impact:** 🔴 8/10 · **Bias:** neutral · **Narrative:** Iran-Israel Conflict and Middle East Tensions
 
-Golf legend Tiger Woods was arrested for driving under the influence following a rollover car crash in Florida on Friday, as confirmed by the Martin County sheriff. This event follows a separate serious rollover crash in California in 2021 that resulted in severe right leg injuries for Woods.
+Iranian missile strikes resulted in one fatality in Tel Aviv and injured 12 US troops, damaging surveillance aircraft at Saudi Arabia's Prince Sultan Air Base. These attacks unfolded amidst escalating tensions following prior Israeli strikes on Tehran's nuclear sites, with US President Donald Trump reportedly postponing a deadline for Iran.
 
-*Key entities:* Tiger Woods, Florida, Martin County, California
-
----
-
-### 8. Report: Elon Musk joins Trump, Modi call on Iran conflict, Strait of Hormuz
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Iran-Strait of Hormuz Geopolitical Tensions
-
-Elon Musk reportedly joined a phone call between Donald Trump and Indian Prime Minister Narendra Modi concerning the conflict in West Asia and the importance of securing the Strait of Hormuz. It remains unclear why Musk participated or if he contributed to the high-level discussion.
-
-*Key entities:* Elon Musk, Donald Trump, Narendra Modi, Iran, Strait of Hormuz
+*Key entities:* Iran, Israel, US, Saudi Arabia, Tel Aviv
 
 ---
 
-### 9. Indian Rupee Hits Record Low Amid Iran War Concerns, Market Pressures
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Iran Geopolitical Tensions and Global Economic Impact
+### 5. Iran conflict escalates; Saudi Arabia, Pakistan engage in de-escalation diplomacy
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Middle East Diplomacy and Iran Conflict
 
-The Indian Rupee reached an all-time low against the US dollar, falling approximately 4% since the start of the Iran war. This decline, influenced by rising oil prices and broader market pressures, marks its potential first fiscal-year drop in over a decade.
+Tensions rise in West Asia due to actions by Iranian army-backed militias. Diplomatic efforts are underway with Saudi Arabia and other nations discussing de-escalation, including a trilateral meeting hosted by Pakistan.
 
-*Key entities:* India, Iran, United States
-
----
-
-### 10. Vance Questions Netanyahu's 'Easy' Iran War Projections in Tense Call
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Israel Tensions Over Iran War Projections
-
-US Senator JD Vance reportedly questioned Israeli Prime Minister Netanyahu's 'easy' projections for a war with Iran during a tense phone call. Following the discussion, a US official alleged that Israel was actively working to undermine Vance's position.
-
-*Key entities:* JD Vance, Netanyahu, Iran, Israel, United States
+*Key entities:* Saudi Crown Prince, Iran, Pakistan, Saudi Arabia, Iranian army-backed militias
 
 ---
 
-### 11. US President Jests About 'Strait of Trump' Amid Iran War Negotiations
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Iran Relations and Strait of Hormuz Tensions
+### 6. Indian Army Receives First Batch of Adani-Made Light Machine Guns
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India's Defense Modernization and Indigenous Production
 
-The US President, while discussing the ongoing Iran war, jokingly referred to the Strait of Hormuz as the 'Strait of Trump,' assuring progress in military objectives. He also mentioned ongoing negotiations to end the month-long conflict, including a possibility of joint control over the strait.
+Adani Defence has delivered the first consignment of 2,000 'Prahar' light machine guns to the Indian Army, completing the order ahead of schedule. Manufactured at the company's Gwalior facility, this delivery is part of a larger 40,000 LMG order from PLR System, a joint venture with Israeli Weapon Industries.
 
-*Key entities:* Donald Trump, Iran, United States, Strait of Hormuz, Ayatollah
-
----
-
-### 12. UAE and Kuwait Intercept Drones and Missiles Amid Escalating Gulf Tensions
-**Impact:** 🟡 7/10 · **Bias:** nationalist · **Narrative:** Middle East Tensions and Conflict
-
-UAE air defense systems intercepted six missiles and nine drones, reportedly from Iran, while Kuwait also intercepted two drones, indicating escalating regional tensions. These attacks have led to civilian casualties, including an Indian national, and prompted UN warnings regarding threats to energy sites and infrastructure across the Gulf.
-
-*Key entities:* UAE, Kuwait, Iran, Dubai, Sharjah
+*Key entities:* Indian Army, Adani Defence, PLR System, Israeli Weapon Industries, India
 
 ---
 
-### 13. Japan Extends ₹16,420 Crore ODA Loans for Indian Metro, Healthcare, and Agriculture Projects
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Japan-India Development Aid and Infrastructure Investment
+### 7. Israeli Strike Kills Journalists in Southern Lebanon; Hezbollah Link Alleged
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Israel-Hezbollah Conflict
 
-Japan has committed 16,420 crore rupees in Official Development Assistance (ODA) loans to India for several key infrastructure and development projects. These funds will support the Bengaluru and Mumbai Metro rail projects, enhance tertiary healthcare and nursing education in Maharashtra, and promote sustainable horticulture in Punjab.
+An Israeli strike in Southern Lebanon resulted in the deaths of three journalists, with Al Mayadeen and Al Manar confirming casualties from their staff. Israel stated one of the deceased was a Hezbollah operative, while reports also note 46 rescuers and five medical staff have been killed in the broader conflict.
 
-*Key entities:* Japan, India, Bengaluru, Mumbai, Maharashtra
-
----
-
-### 14. India Seeks Russian LNG Amidst Iran Tensions, US Approval Sought
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India-Russia Energy Trade Amidst Geopolitical Tensions
-
-India is preparing to resume LNG purchases from Russia to secure its energy supply amidst rising US-Iran military tensions making the Strait of Hormuz risky for transit. This move comes after a halt in direct LNG trade since the Ukraine conflict, with India reportedly seeking special permission from the US due to trade sanctions.
-
-*Key entities:* India, Russia, USA, Iran, Israel
+*Key entities:* Israel, Lebanon, Hezbollah, Al Mayadeen, Al Manar
 
 ---
 
-### 15. PM Virtually Observes Surya Tilak Ceremony at Ayodhya Ram Temple on Ram Navami
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Ayodhya Ram Mandir Developments
+### 8. Former Nepal PM Oli Arrested Over Deadly 2025 Gen-Z Protest Crackdown
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Nepal Political Accountability and Protest Crackdowns
 
-On Ram Navami, the 'Surya Tilak' ceremony illuminated the idol of Ram Lalla at the grand Ayodhya temple, celebrating the birth of Lord Ram. The Prime Minister virtually witnessed this significant religious event on the ninth day of Chaitra Navratri.
+Former Nepalese Prime Minister K.P. Sharma Oli has been arrested following recommendations from a probe commission investigating the deadly September 2025 Gen-Z protests. The commission, led by Gauribahadur Karki, declared Oli and former Home Minister Lekhak responsible for suppressing the youth-led uprising.
 
-*Key entities:* Narendra Modi, Ayodhya, India
-
----
-
-### 16. US Confirms Deployment of Uncrewed Drone Boats in Iran Conflict
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Iran Tensions and Drone Warfare
-
-The United States has confirmed the deployment of uncrewed drone boats for active conflict operations during its engagement with Iran. This development follows the notable effectiveness of uncrewed vessels, such as those used by Ukraine to inflict significant damage on Russia's Black Sea Fleet.
-
-*Key entities:* US, Iran, Ukraine, Russia, Black Sea Fleet
+*Key entities:* K P Sharma Oli, Lekhak, Gauribahadur Karki, Balendra Shah, Nepal
 
 ---
 
-### 17. Iran Seeks BRICS Intervention Through PM Modi to Counter Attacks
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Geopolitical Shifts and BRICS's Evolving Role
+### 9. Indian Tankers Safely Cross Strait of Hormuz Amid Iran War Tensions
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Gulf Maritime Security and Iran Tensions
 
-Iranian President Masoud Pajeshkia contacted Prime Minister Modi, requesting BRICS's involvement to halt ongoing attacks on Iran. This outreach highlights Iran's reliance on international organizations like BRICS for conflict resolution and underscores discussions around India's foreign policy.
+Two India-flagged LPG tankers, BW Tyr and BW Elm, carrying cooking fuel, successfully transited the critical Strait of Hormuz. Their passage was tracked past the Omani peninsula, occurring amidst heightened regional tensions indicated by a US President's remarks on an 'Iran war'.
 
-*Key entities:* Masoud Pajeshkia, Narendra Modi, BRICS, Iran, India
-
----
-
-### 18. PM Modi Meets Chief Ministers on West Asia Crisis Impact on India
-**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India's Geopolitical and Economic Impact from Middle East Conflicts
-
-Prime Minister Narendra Modi convened a virtual meeting with Chief Ministers to discuss the Middle East conflict's potential impact on India's fuel supply, inflation, and logistics. The discussions focused on ensuring coordinated Centre-state actions for preparedness and maintaining stability in essential sectors.
-
-*Key entities:* Narendra Modi, Chief Ministers, India, Iran, West Asia
+*Key entities:* India, Iran, United States, Oman, Strait of Hormuz
 
 ---
 
-### 19. Balendra Shah Sworn In as Nepal's Youngest Prime Minister
-**Impact:** 🟡 6/10 · **Bias:** neutral · **Narrative:** Nepal Political Transition and Youth Representation
+### 10. PM Modi, Saudi Crown Prince Discuss Middle East Situation and Maritime Security
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Middle East Diplomacy and Maritime Security
 
-Nepal's youngest Prime Minister, Balendra Shah, took the oath of office this Friday. The rapper-turned-politician became prime minister after his Rastriya Swatantra Party won 182 out of 275 seats in the March 5 election, symbolizing youth-driven political change in Nepal.
+Prime Minister Narendra Modi and Saudi Crown Prince Mohammed bin Salman discussed the evolving situation in the Middle East, including regional conflicts and attacks on energy infrastructure. Both leaders emphasized the critical need to ensure freedom of navigation and secure shipping lines, particularly in vital maritime routes like the Strait of Hormuz.
 
-*Key entities:* Balendra Shah, Narendra Modi, Rastriya Swatantra Party, Nepal, Kathmandu
+*Key entities:* Narendra Modi, Mohammed bin Salman, Saudi Arabia, India, Iran
 
 ---
 
-### 20. LPG Tanker Jag Vasant Arrives in Gujarat After Strait of Hormuz Delay
-**Impact:** 🟡 6/10 · **Bias:** neutral · **Narrative:** Middle East Maritime Security
+### 11. PM Modi inaugurates Noida International Airport's first phase
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India's Infrastructure Development
 
-The LPG tanker Jag Vasant has arrived at a Gujarat port after being stranded in the Strait of Hormuz due to an Iranian blockade. This arrival, part of a group of four vessels, helps alleviate India's energy concerns amidst Middle East instability and a reported 40% increase in domestic LPG production.
+Prime Minister Narendra Modi inaugurated Phase I of the Noida International Airport in Jewar, Uttar Pradesh, developed at an investment of ₹11,200 crore under a Public-Private Partnership model. The new airport is expected to enhance connectivity, logistics, and economic opportunities across western Uttar Pradesh and the broader northern region.
 
-*Key entities:* Jag Vasant, Iran, India, Gujarat, Strait of Hormuz
+*Key entities:* Narendra Modi, Noida, Jewar, Delhi NCR, India
+
+---
+
+### 12. Trump Declares Cuba Next Target After Venezuela, Iran Operations
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US Foreign Policy Towards Adversarial States
+
+Former US President Donald Trump stated that Cuba would be the next target after alleged US military successes in Venezuela and West Asia. He dismissed concerns about domestic political costs, hinting at potential 'friendly takeover' or military options for Cuba amidst pressure on its leader Miguel Díaz Canel.
+
+*Key entities:* Donald Trump, Miguel Díaz Canel, Cuba, Iran, Venezuela
+
+---
+
+### 13. Trump's Shifting Stance on Saudi Crown Prince Amidst US-Iran Conflict
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Iran Regional Tensions and Alliances
+
+Donald Trump made controversial remarks about Saudi Crown Prince Mohammed bin Salman, initially mocking him before offering praise. These comments occurred as the US-Iran conflict entered its second month, with Trump vowing to protect Saudi Arabia from Iran.
+
+*Key entities:* Donald Trump, Mohammed bin Salman, US, Saudi Arabia, Iran
+
+---
+
+### 14. Rajnath Singh Chairs Informal Group of Ministers Meeting on West Asia Crisis
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** India's Response to West Asia Crisis
+
+Defence Minister Rajnath Singh chaired the inaugural meeting of the Informal Group of Ministers (IGoM) focused on monitoring the evolving situation in West Asia. This initiative follows a previous meeting led by Prime Minister Narendra Modi, where state leaders assessed preparedness and discussed potential impacts, including fuel security, stemming from the regional developments.
+
+*Key entities:* Rajnath Singh, Narendra Modi, Informal Group of Ministers, India, West Asia
+
+---
+
+### 15. Indian Elections: Amit Shah Criticizes Mamata; AIADMK and DMK Clash in Tamil Nadu
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Indian Elections and Political Campaigning
+
+Union Home Minister Amit Shah accused the Mamata Banerjee government of corruption and misgovernance during his visit to Kolkata. Concurrently, in Tamil Nadu, the AIADMK and DMK are intensifying their electoral rivalry, engaging in direct contests and making claims about development initiatives.
+
+*Key entities:* Amit Shah, Mamata Banerjee, EPS, Stalin, AIADMK
+
+---
+
+### 16. Rubio discusses US objectives in Iran, potential war end, and Strait of Hormuz tolls
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** US-Iran Tensions and Gulf Security
+
+Senator Rubio asserted that U.S. objectives in Iran are progressing ahead of schedule and can be achieved without ground troops, even with existing deployments for various contingencies. He also conferred with G7 foreign ministers regarding potential future attempts by Iran to levy shipping tolls in the Strait of Hormuz.
+
+*Key entities:* Rubio, Iran, US, G7 foreign ministers, Strait of Hormuz
+
+---
+
+### 17. Golf legend Tiger Woods arrested for DUI after Florida car crash
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** Tiger Woods Legal Issues
+
+Golf legend Tiger Woods was arrested for a DUI after a rollover car crash in Florida on Friday, as reported by the Martin County sheriff. He faces misdemeanor charges including DUI, property damage, and refusal to submit to a lawful test.
+
+*Key entities:* Tiger Woods, Martin County Sheriff, Florida
+
+---
+
+### 18. India cautions WTO members against weaponizing transparency in trade retaliation
+**Impact:** 🟡 7/10 · **Bias:** nationalist · **Narrative:** WTO Trade Policy Disputes and Developing Nations
+
+India cautioned World Trade Organization (WTO) members against leveraging transparency as a pretext for trade retaliation or challenging domestic policies. Developing nations support transparency in principle but have significant reservations regarding its implementation as pushed by the United States.
+
+*Key entities:* India, WTO, US
+
+---
+
+### 19. Saudi, Egypt, Turkiye FMs to visit Pakistan for West Asia de-escalation talks
+**Impact:** 🟡 7/10 · **Bias:** neutral · **Narrative:** West Asia Diplomacy and Regional Tensions
+
+Foreign ministers from Saudi Arabia, Egypt, and Turkiye will visit Pakistan for discussions aimed at de-escalating tensions in West Asia. Pakistan emphasizes its active engagement with regional and international stakeholders to peacefully resolve the Iran war.
+
+*Key entities:* Saudi Arabia, Egypt, Turkiye, Pakistan, Iran
+
+---
+
+### 20. India Rejects Reports of Elon Musk Joining Modi-Trump Call on Iran War
+**Impact:** 🟡 6/10 · **Bias:** neutral · **Narrative:** International Diplomacy and Media Scrutiny
+
+India has officially denied a report by The New York Times claiming Elon Musk participated in a phone call between Prime Minister Narendra Modi and US President Donald Trump regarding the Iran War. The Indian government asserted it was solely a conversation between Trump and Modi, despite the NYT report citing anonymous US officials who were unclear about Musk's role.
+
+*Key entities:* Narendra Modi, Donald Trump, Elon Musk, The New York Times, Congress
 
 ---
 
@@ -193,38 +193,38 @@ The LPG tanker Jag Vasant has arrived at a Gujarat port after being stranded in 
 
 ## 📖 Active Narrative Threads
 
+### Middle East Conflict Escalation and International Response
+**ID:** `middle_east_conflict_escalation` · **Events:** 2 · **Started:** 2026-03-25 · **Updated:** 2026-03-29
+
+### Iran-Israel Conflict and Middle East Tensions
+**ID:** `iran_israel_conflict_middle_east_tensions` · **Events:** 1 · **Started:** 2026-03-29 · **Updated:** 2026-03-29
+
+### India's Defense Modernization and Indigenous Production
+**ID:** `india_defense_modernization` · **Events:** 1 · **Started:** 2026-03-29 · **Updated:** 2026-03-29
+
+### Middle East Diplomacy and Iran Conflict
+**ID:** `middle_east_diplomacy_iran_conflict` · **Events:** 1 · **Started:** 2026-03-29 · **Updated:** 2026-03-29
+
+### Iran-Gulf States Diplomatic Crisis
+**ID:** `iran_gulf_tensions` · **Events:** 3 · **Started:** 2026-03-09 · **Updated:** 2026-03-28
+
 ### US-Iran Geopolitical Relations and Energy Politics
 **ID:** `us_iran_geopolitical_tensions` · **Events:** 3 · **Started:** 2026-03-25 · **Updated:** 2026-03-28
 
-### Aviation Safety and VVIP Flight Protocols in India
-**ID:** `aviation_safety_vvip_protocols_india` · **Events:** 1 · **Started:** 2026-03-28 · **Updated:** 2026-03-28
+### US-Iran Regional Tensions and Middle East Conflict
+**ID:** `us_iran_middle_east_tensions` · **Events:** 2 · **Started:** 2026-03-09 · **Updated:** 2026-03-28
 
-### Iran-Strait of Hormuz Geopolitical Tensions
-**ID:** `iran_strait_hormuz_tensions` · **Events:** 1 · **Started:** 2026-03-28 · **Updated:** 2026-03-28
+### Israel-Hezbollah Cross-Border Conflict
+**ID:** `israel_hezbollah_conflict` · **Events:** 2 · **Started:** 2026-03-09 · **Updated:** 2026-03-28
 
-### Iran-U.S. Cyber Attacks
-**ID:** `iran_us_cyber_attacks` · **Events:** 1 · **Started:** 2026-03-28 · **Updated:** 2026-03-28
+### India Infrastructure Development
+**ID:** `india_infrastructure_development` · **Events:** 2 · **Started:** 2026-03-05 · **Updated:** 2026-03-28
 
-### Nepal's Political Transition and India Relations
-**ID:** `nepal_political_transition` · **Events:** 2 · **Started:** 2026-03-09 · **Updated:** 2026-03-27
-
-### Iran-Israel Conflict Escalation
-**ID:** `iran_israel_conflict_escalation` · **Events:** 2 · **Started:** 2026-03-09 · **Updated:** 2026-03-27
-
-### Middle East Tensions and Conflict
-**ID:** `middle_east_tensions_and_conflict` · **Events:** 1 · **Started:** 2026-03-27 · **Updated:** 2026-03-27
-
-### India's Geopolitical and Economic Impact from Middle East Conflicts
-**ID:** `india_geopolitical_economy_impact` · **Events:** 1 · **Started:** 2026-03-27 · **Updated:** 2026-03-27
-
-### US-Iran Tensions and Drone Warfare
-**ID:** `us_iran_tensions_drone_warfare` · **Events:** 1 · **Started:** 2026-03-27 · **Updated:** 2026-03-27
-
-### US Currency Signature Change
-**ID:** `us_currency_signature_change` · **Events:** 1 · **Started:** 2026-03-27 · **Updated:** 2026-03-27
+### Geopolitical Supply Chain Disruption
+**ID:** `geopolitical_supply_chain_disruption` · **Events:** 1 · **Started:** 2026-03-28 · **Updated:** 2026-03-28
 
 
 
 ---
 
-*Generated by Mirror · Powered by MiniMax-M2.5 · Updated 2026-03-28 01:37 UTC*
+*Generated by Mirror · Powered by MiniMax-M2.5 · Updated 2026-03-29 01:29 UTC*
